@@ -1,0 +1,1201 @@
+benchmark	reclaimer	reclaimer-type	params	threads	runtime	ns/op	push_iterations	remove_next_iterations	remove_prev_iterations
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	243.791691	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	241.956026	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	243.570131	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	242.271930	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	242.586626	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	241.872721	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	242.349919	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	241.490182	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	242.505262	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	242.170828	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	242.805065	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	242.691802	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	242.102714	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	243.389427	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	241.790070	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	242.008205	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	242.417356	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	242.786591	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	241.787026	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	242.004387	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	242.432921	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	243.594716	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	241.945893	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	242.365255	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	243.405557	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	241.573738	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	241.811792	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	243.440878	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	241.795812	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	1	8000	241.495587	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	513.529432	1.005379	1.055502	1.064668
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	472.293934	1.004983	1.050914	1.052975
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	508.812312	1.005304	1.056232	1.064186
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	471.268733	1.004603	1.049841	1.054606
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	468.556936	1.005130	1.055766	1.057857
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	450.859101	1.004745	1.046767	1.048987
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	466.025242	1.004601	1.049154	1.052972
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	452.940958	1.004866	1.047193	1.049042
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	488.041230	1.005902	1.055038	1.059241
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	468.056216	1.005189	1.053384	1.056128
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	467.162233	1.004931	1.055004	1.055766
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	505.182652	1.005263	1.060690	1.063487
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	464.892516	1.004739	1.053456	1.057933
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	462.575781	1.005241	1.052893	1.056250
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	452.609727	1.004851	1.047078	1.049174
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	449.300391	1.005057	1.045403	1.050587
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	462.200580	1.005286	1.057793	1.058400
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	502.713317	1.004800	1.049913	1.060097
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	497.937491	1.005072	1.057707	1.063595
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	465.247154	1.004876	1.056142	1.055595
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	463.587493	1.004905	1.052827	1.055877
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	449.713241	1.004938	1.046170	1.051848
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	451.250577	1.005378	1.049461	1.051917
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	467.693085	1.004732	1.056117	1.055348
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	452.543369	1.005015	1.045442	1.049950
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	451.164228	1.005213	1.044151	1.048775
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	465.599128	1.004979	1.055120	1.055030
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	451.875518	1.004258	1.045688	1.048659
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	464.372035	1.005204	1.058098	1.056990
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	2	8000	465.400000	1.004892	1.053692	1.056313
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	808.983359	1.002618	1.081583	1.081924
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	802.997779	1.002877	1.081190	1.084087
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	789.362359	1.002923	1.079364	1.084089
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	799.173989	1.002903	1.081053	1.084676
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	799.551779	1.002984	1.085696	1.084968
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	804.941957	1.002733	1.082078	1.089691
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	801.502421	1.003039	1.083204	1.091478
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	804.384945	1.002745	1.080066	1.084323
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	805.984153	1.002527	1.080590	1.088149
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	799.496060	1.002630	1.080685	1.090019
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	800.890144	1.003102	1.084458	1.087927
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	829.237680	1.003062	1.082698	1.091508
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	803.613932	1.002585	1.082778	1.090228
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	797.852526	1.002393	1.080587	1.090154
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	797.152608	1.003067	1.080864	1.088575
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	829.851880	1.002830	1.083069	1.094450
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	801.610951	1.002711	1.081780	1.090102
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	782.496389	1.002923	1.084672	1.083061
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	835.040599	1.002684	1.083469	1.091563
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	799.894509	1.002936	1.085655	1.093061
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	835.239973	1.002827	1.080454	1.092843
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	798.151260	1.002768	1.082095	1.089745
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	798.979376	1.002663	1.083341	1.089067
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	818.101244	1.003209	1.080437	1.090412
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	785.086688	1.002900	1.084340	1.088998
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	801.218559	1.002795	1.080710	1.093009
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	837.856482	1.002902	1.081247	1.093667
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	786.325408	1.002876	1.085699	1.093176
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	796.592543	1.002575	1.080385	1.086081
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	4	8000	829.094276	1.002929	1.082320	1.097780
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1774.520539	1.005003	1.070664	1.085048
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1829.578517	1.005084	1.068597	1.088157
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1787.561867	1.004780	1.068095	1.086889
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1830.242384	1.005226	1.068627	1.088819
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1831.651923	1.005067	1.067450	1.089063
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1819.464669	1.004876	1.068261	1.087709
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1845.483835	1.004483	1.064261	1.088883
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1828.111933	1.004806	1.066282	1.085130
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1841.864185	1.004804	1.066676	1.085867
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1837.840252	1.004762	1.067313	1.086614
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1707.444608	1.005025	1.069006	1.083162
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1809.374610	1.005075	1.067134	1.082588
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1846.078346	1.004977	1.066883	1.086092
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1848.630615	1.004799	1.065812	1.085258
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1853.388101	1.004957	1.064834	1.083667
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1813.359902	1.005031	1.068256	1.086962
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1847.881873	1.004998	1.065991	1.085177
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1852.584335	1.004733	1.064559	1.084714
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1851.842337	1.004668	1.065172	1.085524
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1847.400137	1.004908	1.065255	1.085926
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1774.666011	1.005076	1.067717	1.084509
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1820.985055	1.004812	1.068539	1.083754
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1845.147204	1.004618	1.066428	1.085794
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1805.172744	1.004591	1.066492	1.082138
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1711.407960	1.004845	1.069608	1.080978
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1839.961043	1.004949	1.065802	1.084068
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1799.322265	1.004798	1.067011	1.084453
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1790.207705	1.004658	1.065729	1.083173
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1770.399358	1.004207	1.065855	1.083270
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	8	8000	1847.047226	1.004642	1.062747	1.081174
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4962.839649	1.007812	1.038525	1.050997
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4907.768297	1.007010	1.037721	1.051565
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4893.729260	1.006741	1.036335	1.048130
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4966.179723	1.007391	1.038893	1.052995
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4972.034056	1.007222	1.038689	1.052659
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4907.243655	1.007427	1.037506	1.051582
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4889.236385	1.007116	1.035915	1.050896
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4884.049895	1.007525	1.038627	1.048907
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4907.969627	1.007178	1.037674	1.049423
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4943.142857	1.007400	1.037906	1.051508
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4965.243526	1.007425	1.038443	1.050737
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4942.298183	1.006893	1.037459	1.051106
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4934.228059	1.007101	1.036729	1.050969
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4955.861062	1.007721	1.038932	1.052524
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4901.272399	1.007208	1.039420	1.052278
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4970.159316	1.007861	1.036985	1.051370
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4958.364319	1.007907	1.038322	1.053799
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4961.499889	1.007441	1.037433	1.048181
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4938.444159	1.007436	1.037548	1.049997
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4910.693414	1.007036	1.038285	1.051391
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4898.966640	1.007456	1.038342	1.051709
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4968.513601	1.007333	1.037679	1.051212
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4974.234929	1.007559	1.038528	1.050716
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4877.514780	1.007172	1.038473	1.050880
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4921.489959	1.007319	1.037921	1.049828
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4932.587965	1.007476	1.037562	1.049647
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4973.840205	1.007368	1.037602	1.050699
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4972.711676	1.006887	1.037685	1.050023
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4914.662882	1.007204	1.040082	1.051106
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	16	8000	4955.010610	1.007253	1.037571	1.051419
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	8864.486840	1.009180	1.030059	1.037542
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9176.152578	1.008546	1.026106	1.033576
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9154.548240	1.008200	1.024256	1.033876
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9156.988444	1.008313	1.025658	1.036431
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9194.446235	1.009036	1.023809	1.032357
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9197.337616	1.009221	1.024611	1.033707
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9196.462108	1.008479	1.026122	1.035348
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9184.969054	1.008337	1.025939	1.035543
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9207.507876	1.008995	1.024737	1.033459
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9188.914462	1.008580	1.025067	1.035729
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9191.583459	1.008742	1.024918	1.035081
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9216.236342	1.008590	1.025620	1.034776
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9202.514955	1.009048	1.026076	1.034156
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9186.722657	1.008278	1.025029	1.034178
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9111.800732	1.009081	1.026300	1.034442
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9157.180871	1.008097	1.025833	1.033272
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9078.811539	1.008105	1.024649	1.034371
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9136.749066	1.008707	1.025261	1.034359
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9201.264396	1.009257	1.025639	1.034656
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9166.502568	1.008378	1.025266	1.035859
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9211.005586	1.008727	1.026088	1.036422
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9168.651126	1.008776	1.026772	1.035529
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9199.082322	1.008681	1.024717	1.034467
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9122.083719	1.008785	1.025814	1.034219
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9176.322218	1.008871	1.025821	1.035003
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9174.334508	1.008778	1.025349	1.035675
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9171.492655	1.008522	1.024368	1.033138
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9167.608809	1.009053	1.025492	1.034205
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9159.781775	1.008939	1.027326	1.035016
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	24	8000	9175.920045	1.008984	1.025900	1.036451
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	13454.158987	1.009353	1.023360	1.029309
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14276.008356	1.008598	1.018773	1.025854
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14266.776903	1.008046	1.018873	1.025543
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14253.483227	1.008834	1.018481	1.024588
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14275.902045	1.008388	1.019430	1.024778
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14237.402772	1.009010	1.019522	1.026074
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14233.984258	1.008661	1.017773	1.023743
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14313.294919	1.009147	1.018300	1.024573
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14279.301837	1.009224	1.017896	1.024405
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14248.722829	1.008914	1.018184	1.024622
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14196.110918	1.008816	1.019007	1.026930
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14256.825687	1.009198	1.018614	1.025134
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14261.784352	1.008879	1.018543	1.025032
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14286.351202	1.008185	1.018037	1.024281
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14236.403925	1.008934	1.018290	1.024105
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14224.862786	1.008733	1.019009	1.025614
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14284.185061	1.008133	1.019190	1.025126
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14306.837774	1.009118	1.018700	1.026426
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14286.073109	1.008944	1.019490	1.025081
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14288.450545	1.009420	1.019549	1.026396
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14288.270337	1.008617	1.018957	1.027250
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14279.226618	1.008946	1.018281	1.024645
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14180.231352	1.009615	1.018732	1.024763
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14210.329021	1.009495	1.019429	1.025545
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14227.818492	1.008926	1.018797	1.025222
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14314.140162	1.008206	1.019717	1.026028
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14269.945883	1.008518	1.018016	1.026116
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14235.532965	1.008806	1.019075	1.024712
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14250.869134	1.009250	1.019124	1.025909
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	32	8000	14214.463997	1.009136	1.017740	1.025555
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	23751.651930	1.013018	1.023448	1.024188
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	27515.072905	1.015136	1.014730	1.015911
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	27821.195461	1.015858	1.016100	1.015395
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	27928.111602	1.019437	1.011750	1.015705
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	28017.198305	1.019456	1.011548	1.014819
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	27979.147295	1.019121	1.011571	1.015404
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	27923.803058	1.019816	1.012350	1.016076
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	27873.837203	1.018892	1.012179	1.015802
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	28018.422761	1.018885	1.011860	1.015575
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	27929.130914	1.019448	1.012504	1.016743
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	27895.955994	1.018460	1.010311	1.015103
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	27930.358006	1.018413	1.010861	1.014940
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	28034.068217	1.019983	1.011349	1.015110
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	27557.325101	1.015137	1.015536	1.016883
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	27481.993706	1.015254	1.013791	1.015602
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	27872.452012	1.018219	1.012400	1.016394
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	27946.420592	1.019399	1.010813	1.015466
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	27872.864083	1.018295	1.011475	1.015841
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	27943.571182	1.019965	1.011745	1.014860
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	28062.996713	1.019960	1.010485	1.014757
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	28060.864561	1.018955	1.011565	1.014765
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	28014.572200	1.017375	1.011581	1.014420
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	27838.842604	1.019340	1.011653	1.016202
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	28090.286480	1.018960	1.010120	1.013368
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	28189.156335	1.019615	1.010549	1.014022
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	27988.577141	1.018924	1.011949	1.015751
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	27915.393473	1.018560	1.011481	1.015046
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	28098.441665	1.020252	1.011542	1.015886
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	28057.783314	1.017839	1.011442	1.014152
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.799805	48	8000	27756.191832	1.014584	1.012672	1.013688
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	200.317680	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	198.144585	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	189.196277	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	190.702478	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	200.523232	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	191.765875	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	201.429924	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	198.629135	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	197.118578	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	199.713295	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	189.766055	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	200.904419	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	191.277598	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	191.047477	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	189.978927	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	198.841564	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	189.729408	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	196.590131	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	191.693239	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	198.149259	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	192.526650	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	188.952654	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	192.291719	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	199.719605	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	192.531403	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	192.839316	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	190.767539	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	197.014185	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	192.317494	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	1	8000	194.163977	1.000000	1.000000	1.000000
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	265.149003	1.006556	1.057497	1.061039
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	262.529874	1.006596	1.052794	1.062087
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	277.161681	1.007531	1.056240	1.069655
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	264.353645	1.006742	1.055522	1.062578
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	278.274115	1.007985	1.057059	1.070680
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	260.281435	1.005547	1.043763	1.051260
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	281.738689	1.006265	1.047064	1.056793
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	260.079775	1.006825	1.051630	1.061670
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	259.599236	1.005682	1.043254	1.048939
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	279.755708	1.010202	1.055980	1.071243
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	266.086528	1.008439	1.065463	1.074861
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	263.848187	1.006021	1.045586	1.052421
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	273.687032	1.008745	1.061780	1.077096
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	264.609364	1.006357	1.050679	1.054995
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	261.515379	1.005930	1.047358	1.053717
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	275.789137	1.008220	1.045975	1.058108
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	265.799163	1.009194	1.053683	1.066089
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	279.876580	1.008713	1.057857	1.073929
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	263.464977	1.007487	1.049453	1.059652
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	264.629944	1.007855	1.067532	1.070384
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	261.991846	1.007332	1.057029	1.069267
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	273.354240	1.007115	1.051623	1.063760
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	257.534107	1.004529	1.035787	1.042423
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	262.035770	1.009506	1.066401	1.075458
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	263.435929	1.007671	1.060361	1.070503
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	261.162872	1.008075	1.064270	1.072052
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	261.858944	1.006572	1.049486	1.058443
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	261.498638	1.007770	1.063425	1.071807
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	275.675902	1.007371	1.056658	1.066155
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	2	8000	262.078715	1.006775	1.052028	1.059921
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	373.540715	1.010410	1.167772	1.201910
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	372.790397	1.010826	1.168328	1.202025
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	380.096406	1.011703	1.168799	1.210712
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	364.473133	1.010727	1.168798	1.197735
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	372.592507	1.010850	1.172076	1.202538
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	371.189963	1.010056	1.167004	1.193317
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	376.679304	1.010972	1.167981	1.203625
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	362.001308	1.010323	1.167483	1.185271
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	368.986627	1.010485	1.174624	1.198975
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	376.236811	1.011374	1.166751	1.209563
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	369.976294	1.010593	1.171529	1.202349
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	368.446247	1.010433	1.174318	1.199204
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	368.639989	1.010667	1.168652	1.199145
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	369.965115	1.010453	1.170495	1.199737
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	363.106489	1.010932	1.169184	1.196953
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	380.928747	1.011815	1.160996	1.214315
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	367.845610	1.010371	1.164377	1.194420
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	367.922613	1.009937	1.170258	1.194770
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	369.479389	1.010840	1.172039	1.197965
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	368.585398	1.010722	1.171331	1.193344
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	381.039009	1.012136	1.162802	1.218467
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	375.103938	1.011430	1.166036	1.207560
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	364.908841	1.011359	1.171323	1.199150
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	369.997412	1.010512	1.166457	1.198956
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	370.583781	1.010463	1.166179	1.191547
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	368.490704	1.010513	1.166869	1.198878
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	369.401932	1.010751	1.175036	1.204657
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	363.884765	1.010313	1.165946	1.186536
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	368.930850	1.010612	1.167062	1.200904
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	4	8000	368.534646	1.010633	1.169855	1.198435
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	716.055776	1.018623	1.180160	1.242123
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	734.092426	1.018546	1.177187	1.240869
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	708.460187	1.017970	1.184710	1.239673
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	721.365258	1.018929	1.179714	1.244843
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	734.411112	1.018721	1.176502	1.244062
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	722.013700	1.019494	1.182672	1.237250
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	681.721859	1.018994	1.186493	1.232876
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	735.828921	1.019406	1.175629	1.240147
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	715.110989	1.018840	1.179850	1.245498
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	732.373993	1.019050	1.177638	1.234122
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	720.099908	1.018462	1.179474	1.247712
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	721.845615	1.018995	1.182961	1.239475
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	720.949115	1.019592	1.179878	1.238232
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	726.157164	1.018593	1.179797	1.243834
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	717.449635	1.018393	1.181660	1.247977
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	710.677121	1.018414	1.183312	1.250410
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	727.022630	1.018236	1.183167	1.241919
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	716.404115	1.018682	1.181666	1.244695
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	729.708463	1.018724	1.181372	1.246014
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	713.057613	1.018036	1.181709	1.251245
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	715.445424	1.018634	1.183163	1.246896
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	710.782771	1.019928	1.184601	1.231044
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	724.193230	1.017893	1.181757	1.248105
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	714.189566	1.018140	1.183847	1.241907
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	728.263870	1.018671	1.181275	1.241095
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	720.643892	1.018463	1.180283	1.245464
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	719.491867	1.019697	1.180880	1.240569
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	716.379704	1.018563	1.179599	1.250907
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	727.710259	1.018643	1.180082	1.242562
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	8	8000	730.409975	1.018798	1.180392	1.247799
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1824.014410	1.027412	1.099880	1.135644
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1845.469669	1.027827	1.099025	1.140690
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1854.580427	1.026627	1.097979	1.137134
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1852.868949	1.027122	1.098106	1.138335
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1826.726191	1.026121	1.101679	1.142771
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1825.632460	1.026047	1.100713	1.141341
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1847.276582	1.027505	1.099130	1.137961
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1844.416299	1.027874	1.098775	1.138718
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1858.570208	1.029957	1.098016	1.139941
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1831.408623	1.028964	1.099434	1.141834
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1835.873423	1.027266	1.099778	1.141392
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1842.206734	1.028587	1.099654	1.141334
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1850.205688	1.027847	1.099270	1.140192
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1830.913090	1.028347	1.099074	1.139491
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1823.188351	1.029202	1.101570	1.143433
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1858.328705	1.029889	1.099203	1.140239
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1844.091168	1.030064	1.099603	1.138730
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1849.061844	1.029417	1.099002	1.141129
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1850.964663	1.029301	1.098424	1.138483
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1836.639284	1.029268	1.098282	1.137762
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1855.703870	1.030094	1.098986	1.140351
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1837.663759	1.029516	1.099917	1.141862
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1845.520911	1.029106	1.100845	1.138870
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1833.806791	1.029085	1.100983	1.141315
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1835.406116	1.029654	1.100784	1.141295
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1853.203481	1.030115	1.100668	1.141886
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1848.780278	1.030333	1.098195	1.141733
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1850.239554	1.029950	1.098045	1.137120
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1844.152203	1.029960	1.099133	1.142610
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	16	8000	1834.139240	1.029872	1.099453	1.139317
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3329.355036	1.027865	1.064806	1.089007
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3354.174023	1.027856	1.063641	1.088239
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3333.121038	1.028126	1.064029	1.088749
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3360.721570	1.027568	1.063708	1.088244
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3373.252762	1.027878	1.063485	1.088517
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3349.791127	1.027954	1.064977	1.089911
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3353.117708	1.028751	1.063322	1.090436
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3336.589509	1.029278	1.064135	1.088770
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3364.588526	1.028017	1.063746	1.090015
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3356.315808	1.029333	1.064389	1.089864
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3362.634636	1.028912	1.063570	1.088304
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3362.468404	1.027700	1.065094	1.090978
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3348.310987	1.027567	1.063846	1.089896
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3347.781481	1.027416	1.063564	1.089864
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3360.598885	1.027522	1.061148	1.086934
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3360.845693	1.028276	1.064157	1.091168
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3352.194948	1.028267	1.063129	1.086872
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3349.563524	1.028451	1.064548	1.089541
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3369.056467	1.027703	1.062993	1.088992
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3355.812677	1.028513	1.063976	1.089834
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3365.765828	1.028814	1.063914	1.089581
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3354.661560	1.028595	1.064296	1.088419
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3378.095699	1.027016	1.064650	1.092222
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3341.471206	1.028786	1.063332	1.087262
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3359.462272	1.027915	1.064034	1.089127
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3341.813098	1.028650	1.064439	1.089806
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3354.557384	1.028194	1.064277	1.088667
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3357.252266	1.028472	1.063942	1.089382
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3330.990067	1.029682	1.064388	1.087441
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	24	8000	3379.542879	1.027018	1.063279	1.087470
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5147.575709	1.028006	1.047344	1.064385
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5195.529369	1.027326	1.046454	1.064944
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5174.870338	1.026525	1.045989	1.063409
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5195.631680	1.026925	1.045835	1.063904
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5190.197743	1.027459	1.045893	1.065276
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5216.246738	1.027729	1.045958	1.064824
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5213.275624	1.027113	1.045628	1.063930
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5189.143217	1.026842	1.045644	1.063942
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5205.855977	1.027445	1.045626	1.065058
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5188.040361	1.027315	1.045800	1.063811
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5166.557634	1.026641	1.046189	1.065461
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5178.548800	1.027236	1.046242	1.064400
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5193.947002	1.027501	1.046423	1.065350
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5195.003623	1.027687	1.047414	1.067006
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5178.985167	1.027164	1.046151	1.064070
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5205.031578	1.026998	1.045720	1.063077
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5192.561474	1.027558	1.046918	1.065642
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5182.085250	1.026444	1.045299	1.063161
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5186.542790	1.026730	1.046056	1.064800
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5187.207080	1.027202	1.044390	1.063770
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5179.712948	1.026320	1.045782	1.063543
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5183.541659	1.027410	1.046854	1.063950
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5182.873900	1.027797	1.044974	1.062529
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5146.318104	1.027097	1.047017	1.064321
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5179.560648	1.026267	1.045011	1.064092
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5172.671180	1.027980	1.046580	1.063985
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5171.500126	1.027233	1.046194	1.065529
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5177.541518	1.027513	1.045845	1.064474
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5165.996081	1.027453	1.046058	1.066311
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	32	8000	5159.431124	1.027536	1.046696	1.063886
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9809.408030	1.036612	1.034866	1.043371
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9943.164085	1.034269	1.031877	1.043286
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9938.829140	1.032594	1.033270	1.043249
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9892.669614	1.033771	1.040666	1.043363
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9932.881066	1.033613	1.033494	1.043725
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9936.373319	1.036247	1.033379	1.044565
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9965.517997	1.034945	1.057002	1.044960
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9500.957594	1.035762	1.058881	1.047695
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9945.488690	1.034715	1.032219	1.044484
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9942.529257	1.033167	1.034001	1.044544
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9934.021896	1.033867	1.033152	1.044016
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9908.097531	1.034404	1.032884	1.044749
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9918.908109	1.034353	1.030875	1.043560
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9970.821646	1.033700	1.032892	1.043898
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9890.922244	1.036508	1.034267	1.044917
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9867.219118	1.036552	1.059022	1.044894
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9916.984194	1.034013	1.033371	1.044320
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9923.098785	1.033361	1.032662	1.044278
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9912.103880	1.033067	1.032869	1.044517
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9925.975188	1.035295	1.032429	1.043828
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9807.577441	1.037651	1.055816	1.046236
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9922.945987	1.035381	1.034607	1.045564
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9843.712863	1.036715	1.059213	1.045156
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9910.181142	1.034442	1.032205	1.043475
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9906.258855	1.034561	1.033010	1.043064
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9951.180405	1.034450	1.034010	1.044651
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9900.281753	1.034302	1.035010	1.045502
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9872.508376	1.033223	1.035761	1.043914
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9806.443697	1.035540	1.056751	1.045168
+list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.199219	48	8000	9878.783950	1.034545	1.048666	1.042911
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	131.783857	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	132.274661	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	133.382247	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	134.696297	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	135.057470	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	135.307724	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	135.594090	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	135.906295	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	136.418381	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	138.115485	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	140.805927	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	143.329936	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	145.772831	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	147.740589	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	149.194604	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	150.335906	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	151.939508	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	153.738452	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	154.147666	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	155.275418	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	156.793446	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	159.006176	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	160.563714	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	162.389710	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	164.323919	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	167.460995	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	169.195618	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	170.750415	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	174.545929	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	1	8000	178.268709	1.000000	1.000000	1.000000
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	652.684518	1.005122	1.041368	1.047097
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	644.576099	1.005440	1.044964	1.052741
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	637.379185	1.003759	1.046391	1.050417
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	638.183950	1.003458	1.025683	1.027984
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	635.628566	1.003733	1.048668	1.056740
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	635.038357	1.003698	1.048309	1.057283
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	649.723445	1.004164	1.037082	1.040763
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	651.607348	1.005007	1.043984	1.048588
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	713.909189	1.003096	1.042394	1.051401
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	651.623266	1.003535	1.029416	1.032239
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	628.524648	1.005765	1.032194	1.038921
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	629.612253	1.005202	1.026988	1.033791
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	646.360063	1.003284	1.030547	1.033762
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	730.524050	1.003835	1.032222	1.040864
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	662.403685	1.005019	1.040026	1.043469
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	721.743036	1.003313	1.040547	1.051756
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	638.605044	1.005391	1.030326	1.037692
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	665.201800	1.003612	1.046965	1.050963
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	667.744661	1.004424	1.031344	1.034637
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	664.417513	1.003429	1.033714	1.037537
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	745.470713	1.004481	1.032530	1.045740
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	674.632341	1.004941	1.042033	1.046658
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	673.717199	1.004371	1.029454	1.031858
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	661.315541	1.003604	1.030438	1.036865
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	678.994267	1.004541	1.031713	1.034951
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	673.237730	1.004536	1.030707	1.032862
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	657.914679	1.003409	1.028203	1.034633
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	675.582823	1.004880	1.041656	1.047813
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	653.622543	1.005506	1.032196	1.037032
+queue	stamp	N3emr8stamp_itE	elements: 10	2	8000	666.169090	1.003380	1.034344	1.037170
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1478.463539	1.001478	1.040545	1.042845
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1467.574983	1.001018	1.037707	1.037231
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1487.511420	1.001408	1.038307	1.038646
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1499.932237	1.001139	1.037263	1.037174
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1498.624990	1.001325	1.037946	1.038428
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1498.814814	1.001171	1.037525	1.037647
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1529.954274	1.001262	1.036504	1.038679
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1496.987292	1.001113	1.038037	1.038762
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1494.590240	1.001247	1.037530	1.038805
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1494.396767	1.000990	1.037653	1.039045
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1517.322902	1.001223	1.039921	1.040926
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1489.133661	1.001112	1.037538	1.037119
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1489.588565	1.001061	1.037485	1.038942
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1490.166108	1.001131	1.037783	1.038738
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1487.605150	1.001348	1.037796	1.038130
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1494.310221	1.001298	1.036135	1.037115
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1479.905049	1.001096	1.039256	1.038257
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1527.831332	1.001189	1.035975	1.039679
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1488.974738	1.001089	1.036931	1.037336
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1490.323310	1.001104	1.038708	1.038908
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1486.072614	1.001203	1.036092	1.036789
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1569.009398	1.001302	1.039319	1.040709
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1465.470878	1.001085	1.038062	1.036642
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1483.125651	1.001158	1.037310	1.038937
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1493.819361	1.000952	1.036659	1.036897
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1492.568328	1.001199	1.036750	1.038215
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1532.076950	1.001220	1.038495	1.042262
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1487.042921	1.001175	1.036366	1.038935
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1489.102414	1.001065	1.037746	1.039072
+queue	stamp	N3emr8stamp_itE	elements: 10	4	8000	1489.877836	1.001178	1.037226	1.037780
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5336.323466	1.001150	1.014838	1.015988
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5305.729425	1.001276	1.014975	1.016476
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5330.465416	1.001149	1.013796	1.016560
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5319.119251	1.001346	1.013550	1.016906
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5320.769091	1.001089	1.014919	1.018692
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5126.916982	1.001177	1.016143	1.017713
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5305.672304	1.001218	1.014022	1.016409
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5158.777728	1.000975	1.014955	1.018227
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5290.264381	1.001223	1.014239	1.017900
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5321.109117	1.001222	1.013854	1.017944
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5043.269724	1.001213	1.016582	1.018134
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5283.574303	1.000966	1.015615	1.018577
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5140.246159	1.001373	1.016357	1.019657
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5279.192065	1.001328	1.014143	1.017689
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5197.752684	1.001047	1.014938	1.016668
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5334.867379	1.000875	1.013750	1.017234
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5246.355373	1.001098	1.014512	1.016627
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5312.440748	1.001129	1.013966	1.016314
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	4988.379442	1.001317	1.015755	1.018374
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5189.482018	1.001394	1.014380	1.017963
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5282.701892	1.001114	1.015967	1.018847
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5093.179612	1.001114	1.014696	1.017751
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5162.209933	1.001339	1.016167	1.019377
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5299.054808	1.001167	1.013971	1.017473
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5146.447536	1.001021	1.014824	1.018096
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5317.364139	1.001088	1.013687	1.016395
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5367.851001	1.001157	1.014926	1.016620
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5305.960836	1.001094	1.015134	1.016104
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5140.818770	1.000996	1.016791	1.018509
+queue	stamp	N3emr8stamp_itE	elements: 10	8	8000	5309.550869	1.001095	1.014662	1.016520
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20469.953930	1.000623	1.005544	1.008243
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20377.521555	1.001018	1.003818	1.006999
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20465.197166	1.000783	1.003387	1.007077
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	19333.722044	1.000815	1.006494	1.008789
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	19681.932652	1.000753	1.004610	1.006592
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20122.746958	1.000911	1.005578	1.008988
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20020.857364	1.000625	1.005237	1.008067
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20101.190482	1.001114	1.004378	1.007155
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20421.390310	1.000861	1.004240	1.007205
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20465.480627	1.000831	1.004905	1.008053
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20418.853334	1.000558	1.004513	1.007799
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20497.102037	1.000848	1.004993	1.008545
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20490.850929	1.001040	1.004719	1.007310
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20440.256556	1.001005	1.005490	1.007772
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20123.732576	1.000817	1.005798	1.008249
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20446.458483	1.000718	1.004964	1.006927
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20948.520498	1.000769	1.005872	1.008260
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20633.662787	1.000741	1.005218	1.005702
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20382.038173	1.000939	1.005521	1.007081
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20578.447728	1.000932	1.005239	1.006026
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20408.467681	1.001163	1.005004	1.007617
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	19744.664359	1.000864	1.004009	1.005366
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20421.585730	1.000638	1.004577	1.007830
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20452.095631	1.001054	1.005606	1.007443
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	21089.818063	1.001153	1.005846	1.007212
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20348.348777	1.000794	1.004988	1.006736
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20406.871012	1.000860	1.004366	1.006357
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20085.806463	1.000706	1.005381	1.007765
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20084.454844	1.000863	1.004737	1.007372
+queue	stamp	N3emr8stamp_itE	elements: 10	16	8000	20032.813766	1.000626	1.005103	1.006528
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	43168.092041	1.000605	1.004032	1.004681
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	45353.784014	1.000894	1.001835	1.003553
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	44215.245646	1.001008	1.003093	1.005339
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	45117.401217	1.001007	1.003045	1.004380
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	45106.656688	1.000795	1.002316	1.003814
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	44421.778650	1.000553	1.002351	1.005048
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	45166.145193	1.000913	1.002435	1.005526
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	44934.649160	1.000723	1.003777	1.006807
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	45176.300606	1.000516	1.003376	1.005744
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	44127.413531	1.000916	1.002427	1.004876
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	44016.226839	1.000867	1.003127	1.004474
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	44983.614640	1.001308	1.004344	1.004718
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	45109.705221	1.001030	1.003090	1.005057
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	43689.428179	1.000702	1.002333	1.002968
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	43689.787268	1.000770	1.002809	1.003919
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	44698.122524	1.000766	1.002600	1.004412
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	45072.802736	1.001030	1.003206	1.004751
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	44694.843633	1.000464	1.003296	1.004734
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	45245.045248	1.000752	1.003970	1.003266
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	45040.802186	1.000865	1.004069	1.005589
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	44539.991042	1.000416	1.003906	1.004946
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	43529.714693	1.001016	1.003656	1.004695
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	44294.170994	1.000850	1.003401	1.003906
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	44603.232336	1.000625	1.002245	1.004120
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	45825.675482	1.000810	1.004026	1.006360
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	45724.848541	1.000618	1.003660	1.005300
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	44235.481545	1.000803	1.004359	1.003602
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	45174.900679	1.000633	1.003144	1.005490
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	44700.708855	1.000557	1.003133	1.004131
+queue	stamp	N3emr8stamp_itE	elements: 10	24	8000	45322.540274	1.001530	1.004024	1.005083
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	71597.498951	1.001000	1.003749	1.004221
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77440.335838	1.000543	1.002566	1.004529
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77459.100860	1.000905	1.002384	1.003108
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77537.845319	1.000665	1.002267	1.004322
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77779.856618	1.000818	1.003668	1.004214
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	76566.459210	1.000715	1.004229	1.003931
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77210.313838	1.000902	1.002165	1.002827
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77359.332560	1.000935	1.002081	1.003589
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	76976.804782	1.000990	1.003449	1.003959
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77038.177106	1.000541	1.002073	1.003304
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77345.454820	1.000965	1.003165	1.003436
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	76903.649031	1.000719	1.002037	1.001947
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77246.991740	1.000662	1.004153	1.002829
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	78294.327060	1.000611	1.002290	1.004122
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	76979.679500	1.000480	1.001770	1.002490
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	78047.403992	1.001095	1.004441	1.003316
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77555.602829	1.000786	1.002178	1.003599
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77436.694623	1.000573	1.001931	1.002716
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77717.459148	1.000818	1.003181	1.002848
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77625.071222	1.000605	1.002936	1.002058
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	76843.603631	1.000508	1.003797	1.002451
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77597.832868	1.000544	1.002238	1.004386
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77798.645800	1.001303	1.002637	1.002970
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77676.954911	1.000787	1.003362	1.005240
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77472.526521	1.000695	1.003412	1.003080
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77858.596713	1.000789	1.002549	1.004369
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77940.939276	1.000851	1.003131	1.003131
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77204.767034	1.000812	1.002136	1.002647
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	77310.092437	1.000693	1.001385	1.003131
+queue	stamp	N3emr8stamp_itE	elements: 10	32	8000	78481.835144	1.000796	1.001806	1.004715
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	589008.579204	1.002952	1.000313	1.000278
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	602498.656158	1.004058	1.000214	1.000285
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	822430.156656	1.002629	1.000540	1.001009
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	212748.672852	1.006567	1.001504	1.000697
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	480984.131201	1.003923	1.000581	1.000799
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	249603.191221	1.006501	1.000187	1.000299
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	1029071.687187	1.003170	1.000437	1.000510
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	707968.911363	1.003393	1.000803	1.001131
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	383991.008589	1.003466	1.001281	1.000867
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	308088.742832	1.006153	1.000815	1.000741
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	513072.033611	1.004183	1.000587	1.000734
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	268890.456314	1.006852	1.001028	1.001028
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	269129.009478	1.005608	1.000299	1.000486
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	239499.206988	1.005172	1.001170	1.001321
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	258486.220478	1.005589	1.001057	1.000831
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	280053.999990	1.005935	1.000727	1.000613
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	335973.844336	1.004532	1.000831	1.000869
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	450162.367777	1.002579	1.000111	1.000295
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	234021.746785	1.006863	1.000525	1.001350
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	753190.631228	1.003344	1.000334	1.000111
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	287262.034170	1.005394	1.000300	1.000712
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	247728.307331	1.006160	1.001065	1.000989
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	268502.268908	1.005557	1.000832	1.000945
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	273755.890091	1.005766	1.001100	1.001024
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	250327.812195	1.006372	1.000603	1.000754
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	216807.108706	1.004163	1.000750	1.000863
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	267762.945059	1.005932	1.000608	1.000837
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	247577.990012	1.004948	1.000262	1.000075
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	263235.381195	1.006206	1.000076	1.000341
+queue	stamp	N3emr8stamp_itE	elements: 10	48	8000	494185.718148	1.003571	1.000405	1.000626
+hash_map	stamp	N3emr8stamp_itE		1	8000	124459350.507692	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	120104754.940299	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	121272441.469697	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	122440862.272727	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	120058967.388060	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	122502206.575758	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	122359739.803030	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	118321585.279412	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	118212753.338235	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	118356395.220588	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	118168682.132353	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	120051763.283582	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	118346138.897059	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	121176369.955224	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	122521973.893939	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	122150790.803030	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	120031585.492537	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	122383823.742424	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	120038687.686567	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	122484085.303030	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	120065722.686567	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	122491693.954545	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	122509958.151515	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	120972335.432836	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	122465563.500000	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	120169814.044776	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	122441236.121212	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	120013642.805970	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	120128539.044776	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		1	8000	122405868.909091	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		2	8000	128235116.952381	1.000000	1.141732	1.125984
+hash_map	stamp	N3emr8stamp_itE		2	8000	123321173.884615	1.000000	1.083969	1.122137
+hash_map	stamp	N3emr8stamp_itE		2	8000	122866526.576224	1.000000	1.000000	1.000000
+hash_map	stamp	N3emr8stamp_itE		2	8000	123364619.353846	1.000000	1.137405	1.259542
+hash_map	stamp	N3emr8stamp_itE		2	8000	123084935.503613	1.000000	1.030303	1.015152
+hash_map	stamp	N3emr8stamp_itE		2	8000	123425632.676923	1.000000	1.198473	1.099237
+hash_map	stamp	N3emr8stamp_itE		2	8000	122649104.098485	1.000000	1.112782	1.097744
+hash_map	stamp	N3emr8stamp_itE		2	8000	122554757.833333	1.000000	1.172932	1.120301
+hash_map	stamp	N3emr8stamp_itE		2	8000	122832283.310606	1.000000	1.225564	1.270677
+hash_map	stamp	N3emr8stamp_itE		2	8000	123505821.415385	1.000000	1.145038	1.083969
+hash_map	stamp	N3emr8stamp_itE		2	8000	123140439.269231	1.000000	1.229008	1.221374
+hash_map	stamp	N3emr8stamp_itE		2	8000	122504617.159091	1.015038	1.165414	1.112782
+hash_map	stamp	N3emr8stamp_itE		2	8000	122847377.621212	1.000000	1.135338	1.150376
+hash_map	stamp	N3emr8stamp_itE		2	8000	122624193.030303	1.000000	1.195489	1.142857
+hash_map	stamp	N3emr8stamp_itE		2	8000	122663535.613636	1.000000	1.150376	1.172932
+hash_map	stamp	N3emr8stamp_itE		2	8000	123166297.053846	1.000000	1.244275	1.160305
+hash_map	stamp	N3emr8stamp_itE		2	8000	122783158.810606	1.000000	1.060150	1.030075
+hash_map	stamp	N3emr8stamp_itE		2	8000	122882279.174242	1.000000	1.060150	1.045113
+hash_map	stamp	N3emr8stamp_itE		2	8000	122508915.265152	1.000000	1.120301	1.135338
+hash_map	stamp	N3emr8stamp_itE		2	8000	122752913.704545	1.000000	1.060150	1.022556
+hash_map	stamp	N3emr8stamp_itE		2	8000	122591271.886364	1.000000	1.052632	1.037594
+hash_map	stamp	N3emr8stamp_itE		2	8000	122395085.825758	1.000000	1.150376	1.030075
+hash_map	stamp	N3emr8stamp_itE		2	8000	122242429.492424	1.000000	1.150376	1.075188
+hash_map	stamp	N3emr8stamp_itE		2	8000	122834839.318182	1.000000	1.180451	1.203008
+hash_map	stamp	N3emr8stamp_itE		2	8000	122739167.000000	1.000000	1.255639	1.097744
+hash_map	stamp	N3emr8stamp_itE		2	8000	123295788.753846	1.000000	1.076336	1.114504
+hash_map	stamp	N3emr8stamp_itE		2	8000	122938445.810606	1.000000	1.060150	1.060150
+hash_map	stamp	N3emr8stamp_itE		2	8000	122692252.439394	1.000000	1.112782	1.037594
+hash_map	stamp	N3emr8stamp_itE		2	8000	122547443.045455	1.000000	1.172932	1.180451
+hash_map	stamp	N3emr8stamp_itE		2	8000	122720538.727273	1.000000	1.180451	1.255639
+hash_map	stamp	N3emr8stamp_itE		4	8000	124469823.703846	1.000000	1.693487	1.773946
+hash_map	stamp	N3emr8stamp_itE		4	8000	122043154.897727	1.007547	1.992453	2.090566
+hash_map	stamp	N3emr8stamp_itE		4	8000	121757504.659091	1.015094	1.841509	1.815094
+hash_map	stamp	N3emr8stamp_itE		4	8000	121760206.053030	1.007547	1.615094	1.596226
+hash_map	stamp	N3emr8stamp_itE		4	8000	122173404.731061	1.007547	1.788679	2.124528
+hash_map	stamp	N3emr8stamp_itE		4	8000	122031572.943182	1.015094	1.871698	2.094340
+hash_map	stamp	N3emr8stamp_itE		4	8000	121558546.068182	1.022642	1.675472	1.747170
+hash_map	stamp	N3emr8stamp_itE		4	8000	121930582.632576	1.018868	1.747170	1.769811
+hash_map	stamp	N3emr8stamp_itE		4	8000	122281745.916667	1.003774	2.033962	1.977358
+hash_map	stamp	N3emr8stamp_itE		4	8000	121432905.613636	1.000000	1.720755	1.577358
+hash_map	stamp	N3emr8stamp_itE		4	8000	122245566.106061	1.022642	1.690566	1.916981
+hash_map	stamp	N3emr8stamp_itE		4	8000	121755078.155303	1.015094	1.498113	1.362264
+hash_map	stamp	N3emr8stamp_itE		4	8000	121504157.106061	1.007547	1.777358	1.879245
+hash_map	stamp	N3emr8stamp_itE		4	8000	122034544.916667	1.015094	1.637736	1.675472
+hash_map	stamp	N3emr8stamp_itE		4	8000	122056915.037879	1.015094	1.660377	1.713208
+hash_map	stamp	N3emr8stamp_itE		4	8000	122016836.344697	1.030189	1.611321	1.935849
+hash_map	stamp	N3emr8stamp_itE		4	8000	121597592.087121	1.022642	1.735849	1.947170
+hash_map	stamp	N3emr8stamp_itE		4	8000	121409604.250000	1.015094	1.569811	1.905660
+hash_map	stamp	N3emr8stamp_itE		4	8000	121412731.590909	1.030189	1.747170	1.939623
+hash_map	stamp	N3emr8stamp_itE		4	8000	122019030.515152	1.015094	1.520755	1.513208
+hash_map	stamp	N3emr8stamp_itE		4	8000	121620772.503788	1.015094	1.724528	1.894340
+hash_map	stamp	N3emr8stamp_itE		4	8000	122514892.196970	1.015094	2.033962	2.494340
+hash_map	stamp	N3emr8stamp_itE		4	8000	121277466.704545	1.018868	1.626415	1.901887
+hash_map	stamp	N3emr8stamp_itE		4	8000	121661328.534091	1.015094	1.622642	1.592453
+hash_map	stamp	N3emr8stamp_itE		4	8000	121692183.397727	1.022642	1.683019	1.984906
+hash_map	stamp	N3emr8stamp_itE		4	8000	121958674.784091	1.000000	1.600000	1.532075
+hash_map	stamp	N3emr8stamp_itE		4	8000	121287261.268939	1.007547	1.788679	1.950943
+hash_map	stamp	N3emr8stamp_itE		4	8000	121877351.496212	1.015094	1.584906	1.769811
+hash_map	stamp	N3emr8stamp_itE		4	8000	122219482.348485	1.018868	1.577358	1.750943
+hash_map	stamp	N3emr8stamp_itE		4	8000	121853764.337121	1.000000	1.701887	1.973585
+hash_map	stamp	N3emr8stamp_itE		8	8000	143115736.861176	1.024229	2.136564	2.244493
+hash_map	stamp	N3emr8stamp_itE		8	8000	122486430.591436	1.047619	2.059048	1.998095
+hash_map	stamp	N3emr8stamp_itE		8	8000	123733953.582340	1.030769	2.021154	2.253846
+hash_map	stamp	N3emr8stamp_itE		8	8000	122168205.062500	1.057034	1.958175	1.884030
+hash_map	stamp	N3emr8stamp_itE		8	8000	122336968.759175	1.026515	1.755682	1.668561
+hash_map	stamp	N3emr8stamp_itE		8	8000	122921455.977280	1.032319	1.899240	1.884030
+hash_map	stamp	N3emr8stamp_itE		8	8000	123440039.250814	1.030710	1.842610	1.802303
+hash_map	stamp	N3emr8stamp_itE		8	8000	122878911.739778	1.034483	1.779693	1.770115
+hash_map	stamp	N3emr8stamp_itE		8	8000	124409906.627265	1.028681	1.831740	1.839388
+hash_map	stamp	N3emr8stamp_itE		8	8000	123739941.970494	1.047619	1.838095	2.013333
+hash_map	stamp	N3emr8stamp_itE		8	8000	123073938.720833	1.026718	1.952290	2.053435
+hash_map	stamp	N3emr8stamp_itE		8	8000	123832417.817934	1.028626	1.750000	1.889313
+hash_map	stamp	N3emr8stamp_itE		8	8000	123358330.638865	1.037951	2.121442	2.144213
+hash_map	stamp	N3emr8stamp_itE		8	8000	122817250.064437	1.022770	1.831120	1.943074
+hash_map	stamp	N3emr8stamp_itE		8	8000	124032648.949635	1.019268	2.048170	1.940270
+hash_map	stamp	N3emr8stamp_itE		8	8000	123523352.254775	1.038388	2.358925	2.236084
+hash_map	stamp	N3emr8stamp_itE		8	8000	122060070.651255	1.033962	2.000000	2.047170
+hash_map	stamp	N3emr8stamp_itE		8	8000	121896275.186174	1.035714	1.853383	1.894737
+hash_map	stamp	N3emr8stamp_itE		8	8000	122645021.265273	1.028409	2.092803	2.162879
+hash_map	stamp	N3emr8stamp_itE		8	8000	123422407.717507	1.019084	1.797710	1.933206
+hash_map	stamp	N3emr8stamp_itE		8	8000	121953075.182159	1.018832	1.937853	1.849341
+hash_map	stamp	N3emr8stamp_itE		8	8000	121600797.476406	1.054307	2.131086	1.988764
+hash_map	stamp	N3emr8stamp_itE		8	8000	122086549.746654	1.030132	1.751412	1.809793
+hash_map	stamp	N3emr8stamp_itE		8	8000	122301978.505892	1.018832	2.047081	2.058380
+hash_map	stamp	N3emr8stamp_itE		8	8000	123422399.717402	1.026616	2.207224	2.136882
+hash_map	stamp	N3emr8stamp_itE		8	8000	123166375.034693	1.041825	1.815589	1.855513
+hash_map	stamp	N3emr8stamp_itE		8	8000	122858355.212007	1.028463	2.098672	2.132827
+hash_map	stamp	N3emr8stamp_itE		8	8000	122853448.022750	1.022945	2.168260	2.139579
+hash_map	stamp	N3emr8stamp_itE		8	8000	122868058.724396	1.034026	2.013233	1.926276
+hash_map	stamp	N3emr8stamp_itE		8	8000	122547054.653929	1.035917	1.931947	1.960302
+hash_map	stamp	N3emr8stamp_itE		16	8000	417031285.784294	1.041801	1.852090	1.742765
+hash_map	stamp	N3emr8stamp_itE		16	8000	128443013.810151	1.079444	1.847071	1.852036
+hash_map	stamp	N3emr8stamp_itE		16	8000	128723312.036683	1.054162	1.991976	1.930792
+hash_map	stamp	N3emr8stamp_itE		16	8000	127802736.271976	1.081854	2.129191	1.986193
+hash_map	stamp	N3emr8stamp_itE		16	8000	128412157.248006	1.076389	2.010913	2.008929
+hash_map	stamp	N3emr8stamp_itE		16	8000	129131184.318693	1.100200	1.918838	1.873747
+hash_map	stamp	N3emr8stamp_itE		16	8000	127956595.929627	1.072978	1.806706	1.748521
+hash_map	stamp	N3emr8stamp_itE		16	8000	128273268.125509	1.053518	2.080278	1.952428
+hash_map	stamp	N3emr8stamp_itE		16	8000	127965491.273550	1.084729	2.236453	2.249261
+hash_map	stamp	N3emr8stamp_itE		16	8000	127874003.257785	1.064103	1.956607	1.878698
+hash_map	stamp	N3emr8stamp_itE		16	8000	128095986.153441	1.070089	2.241856	2.122409
+hash_map	stamp	N3emr8stamp_itE		16	8000	127739612.543556	1.067913	1.957677	1.842520
+hash_map	stamp	N3emr8stamp_itE		16	8000	127909884.122334	1.097512	2.217910	2.202985
+hash_map	stamp	N3emr8stamp_itE		16	8000	128945856.550841	1.085743	1.994018	1.806580
+hash_map	stamp	N3emr8stamp_itE		16	8000	127393966.483534	1.071709	2.089391	2.014735
+hash_map	stamp	N3emr8stamp_itE		16	8000	128266587.298136	1.067980	1.994089	1.863054
+hash_map	stamp	N3emr8stamp_itE		16	8000	128730728.050015	1.063429	2.065411	1.950446
+hash_map	stamp	N3emr8stamp_itE		16	8000	127487125.035940	1.113300	2.097537	2.078818
+hash_map	stamp	N3emr8stamp_itE		16	8000	127834517.146430	1.057769	1.988048	1.884462
+hash_map	stamp	N3emr8stamp_itE		16	8000	128844656.118581	1.079920	1.938062	1.924076
+hash_map	stamp	N3emr8stamp_itE		16	8000	127809851.597928	1.051282	2.021696	1.936884
+hash_map	stamp	N3emr8stamp_itE		16	8000	127895139.976648	1.065945	1.849409	1.819882
+hash_map	stamp	N3emr8stamp_itE		16	8000	128947543.194715	1.089286	1.932540	1.906746
+hash_map	stamp	N3emr8stamp_itE		16	8000	128545081.719186	1.079920	1.925075	1.921079
+hash_map	stamp	N3emr8stamp_itE		16	8000	127927698.017686	1.072906	2.066995	1.985222
+hash_map	stamp	N3emr8stamp_itE		16	8000	129120871.001924	1.052209	1.953815	1.974900
+hash_map	stamp	N3emr8stamp_itE		16	8000	127850351.530660	1.074803	2.065945	1.999016
+hash_map	stamp	N3emr8stamp_itE		16	8000	128720104.037830	1.061386	2.066337	1.920792
+hash_map	stamp	N3emr8stamp_itE		16	8000	127812062.417845	1.061084	1.923153	1.926108
+hash_map	stamp	N3emr8stamp_itE		16	8000	128068619.375849	1.071992	2.110454	1.960552
+hash_map	stamp	N3emr8stamp_itE		24	8000	2141476885.364583	1.020833	1.072917	1.135417
+hash_map	stamp	N3emr8stamp_itE		24	8000	133862552.743034	1.073204	1.733425	1.645718
+hash_map	stamp	N3emr8stamp_itE		24	8000	133077129.675326	1.066298	1.578039	1.618785
+hash_map	stamp	N3emr8stamp_itE		24	8000	132957561.215627	1.074227	1.567010	1.606186
+hash_map	stamp	N3emr8stamp_itE		24	8000	133457902.066821	1.093858	1.690131	1.652864
+hash_map	stamp	N3emr8stamp_itE		24	8000	133699567.823070	1.084945	1.745856	1.604282
+hash_map	stamp	N3emr8stamp_itE		24	8000	134748694.803345	1.108575	1.673582	1.683264
+hash_map	stamp	N3emr8stamp_itE		24	8000	134465597.919982	1.078039	1.616022	1.583564
+hash_map	stamp	N3emr8stamp_itE		24	8000	133916079.282165	1.074914	1.697595	1.771821
+hash_map	stamp	N3emr8stamp_itE		24	8000	134467811.541307	1.079665	1.755416	1.694619
+hash_map	stamp	N3emr8stamp_itE		24	8000	136348225.307435	1.084337	1.589653	1.527286
+hash_map	stamp	N3emr8stamp_itE		24	8000	136335767.200106	1.074282	1.625788	1.596356
+hash_map	stamp	N3emr8stamp_itE		24	8000	134954087.578003	1.081176	1.702589	1.650805
+hash_map	stamp	N3emr8stamp_itE		24	8000	134806088.372538	1.087137	1.683264	1.678423
+hash_map	stamp	N3emr8stamp_itE		24	8000	135880384.304514	1.088174	1.674598	1.655003
+hash_map	stamp	N3emr8stamp_itE		24	8000	167103319.173459	1.072526	1.622014	1.558874
+hash_map	stamp	N3emr8stamp_itE		24	8000	135404938.682635	1.086255	1.713184	1.676017
+hash_map	stamp	N3emr8stamp_itE		24	8000	134498423.682921	1.070442	1.674724	1.620166
+hash_map	stamp	N3emr8stamp_itE		24	8000	135207841.077876	1.070827	1.754558	1.673212
+hash_map	stamp	N3emr8stamp_itE		24	8000	134911441.121777	1.054054	1.543313	1.609841
+hash_map	stamp	N3emr8stamp_itE		24	8000	135549615.752286	1.074438	1.689607	1.699438
+hash_map	stamp	N3emr8stamp_itE		24	8000	135571289.037529	1.082633	1.575630	1.557423
+hash_map	stamp	N3emr8stamp_itE		24	8000	136464627.653521	1.082749	1.526648	1.451613
+hash_map	stamp	N3emr8stamp_itE		24	8000	135438702.201092	1.079609	1.648743	1.613827
+hash_map	stamp	N3emr8stamp_itE		24	8000	135150841.133500	1.085315	1.679021	1.633566
+hash_map	stamp	N3emr8stamp_itE		24	8000	134773156.760792	1.071978	1.662474	1.566737
+hash_map	stamp	N3emr8stamp_itE		24	8000	135681007.090156	1.093903	1.686055	1.590049
+hash_map	stamp	N3emr8stamp_itE		24	8000	134094602.837497	1.084594	1.590784	1.621045
+hash_map	stamp	N3emr8stamp_itE		24	8000	136062297.808495	1.092372	1.705388	1.739678
+hash_map	stamp	N3emr8stamp_itE		24	8000	136449960.326037	1.086037	1.760226	1.636107
+hash_map	stamp	N3emr8stamp_itE		32	8000	2933374918.947917	1.000000	1.114583	1.125000
+hash_map	stamp	N3emr8stamp_itE		32	8000	1615796758.971875	1.021739	1.135870	1.119565
+hash_map	stamp	N3emr8stamp_itE		32	8000	142212788.355526	1.074217	1.433755	1.446399
+hash_map	stamp	N3emr8stamp_itE		32	8000	142042428.523142	1.083104	1.359384	1.383049
+hash_map	stamp	N3emr8stamp_itE		32	8000	142052956.446440	1.074890	1.384912	1.419604
+hash_map	stamp	N3emr8stamp_itE		32	8000	140634823.089832	1.080043	1.361276	1.415360
+hash_map	stamp	N3emr8stamp_itE		32	8000	136889203.268506	1.085061	1.399787	1.471026
+hash_map	stamp	N3emr8stamp_itE		32	8000	135442692.710524	1.077206	1.349790	1.429622
+hash_map	stamp	N3emr8stamp_itE		32	8000	137762828.400015	1.082403	1.469431	1.500266
+hash_map	stamp	N3emr8stamp_itE		32	8000	138342463.213551	1.067308	1.435897	1.435897
+hash_map	stamp	N3emr8stamp_itE		32	8000	138734493.304187	1.053514	1.364324	1.456757
+hash_map	stamp	N3emr8stamp_itE		32	8000	137607704.284544	1.074667	1.444267	1.471467
+hash_map	stamp	N3emr8stamp_itE		32	8000	141983479.559450	1.069613	1.337017	1.371823
+hash_map	stamp	N3emr8stamp_itE		32	8000	140844714.243730	1.079133	1.356640	1.407588
+hash_map	stamp	N3emr8stamp_itE		32	8000	142366089.386012	1.077220	1.317154	1.322118
+hash_map	stamp	N3emr8stamp_itE		32	8000	142242161.258425	1.075649	1.408614	1.387631
+hash_map	stamp	N3emr8stamp_itE		32	8000	142364216.361061	1.087028	1.388615	1.400657
+hash_map	stamp	N3emr8stamp_itE		32	8000	141643316.987412	1.093253	1.421284	1.385080
+hash_map	stamp	N3emr8stamp_itE		32	8000	142172257.662624	1.094846	1.444627	1.500000
+hash_map	stamp	N3emr8stamp_itE		32	8000	141949812.546974	1.088510	1.412314	1.430456
+hash_map	stamp	N3emr8stamp_itE		32	8000	140897132.772081	1.075799	1.351381	1.434759
+hash_map	stamp	N3emr8stamp_itE		32	8000	144005482.035071	1.090655	1.436486	1.503637
+hash_map	stamp	N3emr8stamp_itE		32	8000	142912442.191858	1.093062	1.432269	1.409692
+hash_map	stamp	N3emr8stamp_itE		32	8000	141773225.868489	1.088559	1.435644	1.462596
+hash_map	stamp	N3emr8stamp_itE		32	8000	143591884.331052	1.107083	1.404908	1.502510
+hash_map	stamp	N3emr8stamp_itE		32	8000	143742332.691221	1.083705	1.471540	1.460379
+hash_map	stamp	N3emr8stamp_itE		32	8000	144291944.076670	1.087005	1.406023	1.440045
+hash_map	stamp	N3emr8stamp_itE		32	8000	143312375.993611	1.073702	1.416527	1.432719
+hash_map	stamp	N3emr8stamp_itE		32	8000	144609129.912575	1.068600	1.385388	1.443949
+hash_map	stamp	N3emr8stamp_itE		32	8000	142305291.730278	1.076754	1.526316	1.495066
+hash_map	stamp	N3emr8stamp_itE		48	8000	4312202654.687500	1.000000	1.154639	1.185567
+hash_map	stamp	N3emr8stamp_itE		48	8000	2038671185.352083	1.038760	1.158915	1.069767
+hash_map	stamp	N3emr8stamp_itE		48	8000	148146441.490790	1.073546	1.224490	1.225260
+hash_map	stamp	N3emr8stamp_itE		48	8000	392664437.168274	1.067748	1.236641	1.284351
+hash_map	stamp	N3emr8stamp_itE		48	8000	151229525.187785	1.059812	1.259969	1.267396
+hash_map	stamp	N3emr8stamp_itE		48	8000	149055713.384724	1.089204	1.258806	1.219755
+hash_map	stamp	N3emr8stamp_itE		48	8000	152793070.654558	1.084524	1.360317	1.349206
+hash_map	stamp	N3emr8stamp_itE		48	8000	155013189.514251	1.075995	1.264978	1.285485
+hash_map	stamp	N3emr8stamp_itE		48	8000	156694603.082402	1.084376	1.325797	1.303997
+hash_map	stamp	N3emr8stamp_itE		48	8000	154581581.788252	1.090261	1.279889	1.287807
+hash_map	stamp	N3emr8stamp_itE		48	8000	156135334.464363	1.057235	1.276904	1.258364
+hash_map	stamp	N3emr8stamp_itE		48	8000	156190720.884971	1.072207	1.278741	1.289230
+hash_map	stamp	N3emr8stamp_itE		48	8000	161192633.757822	1.073191	1.368883	1.331242
+hash_map	stamp	N3emr8stamp_itE		48	8000	161344452.381154	1.069067	1.292172	1.345333
+hash_map	stamp	N3emr8stamp_itE		48	8000	162039037.114459	1.087940	1.251256	1.265494
+hash_map	stamp	N3emr8stamp_itE		48	8000	157845314.534935	1.083871	1.267339	1.305645
+hash_map	stamp	N3emr8stamp_itE		48	8000	159565578.872158	1.072220	1.265490	1.272876
+hash_map	stamp	N3emr8stamp_itE		48	8000	157119900.501261	1.076302	1.261607	1.276544
+hash_map	stamp	N3emr8stamp_itE		48	8000	161463130.422922	1.077824	1.306695	1.291213
+hash_map	stamp	N3emr8stamp_itE		48	8000	161349007.830586	1.069456	1.320921	1.328452
+hash_map	stamp	N3emr8stamp_itE		48	8000	161347534.115208	1.076087	1.326923	1.320234
+hash_map	stamp	N3emr8stamp_itE		48	8000	160698872.180009	1.063115	1.240984	1.238934
+hash_map	stamp	N3emr8stamp_itE		48	8000	162403301.532598	1.064799	1.301421	1.283027
+hash_map	stamp	N3emr8stamp_itE		48	8000	164523473.939536	1.077546	1.278654	1.274393
+hash_map	stamp	N3emr8stamp_itE		48	8000	162563663.895011	1.082186	1.308719	1.294952
+hash_map	stamp	N3emr8stamp_itE		48	8000	165530095.579092	1.085215	1.291436	1.273967
+hash_map	stamp	N3emr8stamp_itE		48	8000	167612723.039928	1.079487	1.260256	1.303846
+hash_map	stamp	N3emr8stamp_itE		48	8000	165703870.033461	1.084579	1.293464	1.302862
+hash_map	stamp	N3emr8stamp_itE		48	8000	167359088.439927	1.078856	1.307192	1.306326
+hash_map	stamp	N3emr8stamp_itE		48	8000	167912237.889412	1.064208	1.291974	1.292408
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.624215	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.609144	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.591502	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.601483	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.575780	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.549650	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.562247	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.554596	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.549680	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.542771	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.620872	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.627655	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.609407	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.590053	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.388621	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.618153	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.609859	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.604399	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.589651	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.576919	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.569080	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.554764	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.557705	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.547381	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.551806	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.533351	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.365603	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.615680	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.514653	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		1	8000	320.593139	1.000000	1.000000	1.000000
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1851.401459	1.203303	1.121028	2.479206
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1971.941596	1.380866	1.106530	2.622317
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1825.454053	1.207686	1.131461	2.448358
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1847.118994	1.180835	1.133979	2.579614
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1896.233332	1.278212	1.154497	2.472689
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1824.452588	1.279424	1.092543	2.288767
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	2153.852082	1.467440	1.119446	2.534170
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	2051.194051	1.372160	1.105843	2.471290
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1882.299598	1.289887	1.147477	2.465315
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1835.488340	1.196701	1.105645	2.402806
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1813.812567	1.173904	1.116826	2.505380
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1812.652667	1.230664	1.125883	2.323229
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	2045.331409	1.520541	1.095476	2.766475
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1883.866782	1.281520	1.158709	2.492641
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1923.457710	1.371390	1.157225	2.630187
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1852.254460	1.200863	1.134021	2.503005
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1856.531125	1.215606	1.113107	2.427274
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	2023.483802	1.561477	1.079424	2.805554
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1907.032086	1.288542	1.159378	2.404784
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1848.533059	1.190720	1.144630	2.515266
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	2037.408444	1.437691	1.190547	2.496715
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1899.434680	1.278710	1.150906	2.339045
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1834.461993	1.194695	1.104668	2.400791
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1858.709527	1.214032	1.126404	2.442017
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1839.863075	1.195554	1.111015	2.396986
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1943.282143	1.330496	1.114242	2.710007
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	2022.386405	1.536177	1.134667	2.813712
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1866.908145	1.212448	1.110928	2.352865
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1804.677575	1.244605	1.113734	2.343561
+guard_ptr	stamp	N3emr8stamp_itE		2	8000	1867.913198	1.214667	1.131326	2.451444
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4489.938653	1.773909	2.060135	6.424287
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4157.101193	1.723510	1.992889	6.527992
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4153.384450	1.721658	1.993098	6.526767
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4165.842752	1.717874	1.997241	6.497983
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4145.261167	1.718411	1.945854	6.554877
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4168.157983	1.722643	1.988964	6.513925
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4154.919143	1.724097	1.987551	6.510658
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4582.393078	1.796807	2.112356	6.397159
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4307.677403	1.692343	1.929661	6.330554
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4293.076502	1.758939	2.085240	6.419151
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4148.851896	1.720651	1.948523	6.564230
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4157.477779	1.720940	1.943794	6.585465
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4417.085847	1.748986	2.031128	6.468951
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4506.409134	1.723269	1.962731	6.270667
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4166.176095	1.722912	1.986889	6.515655
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4157.682300	1.720287	1.948480	6.576035
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4147.066473	1.722675	1.949482	6.582244
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4159.074069	1.718589	1.955751	6.584660
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4158.814777	1.722175	1.988565	6.515848
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4055.216502	1.758195	1.931001	6.546812
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4053.852572	1.758826	1.936441	6.552636
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4152.976681	1.718407	2.001994	6.521076
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4159.623582	1.723857	1.991147	6.521076
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4289.880814	1.747781	2.024187	6.499186
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4150.904894	1.725638	1.992378	6.524905
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4164.973332	1.723620	1.988831	6.518640
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4395.756874	1.763926	2.024745	6.452613
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4156.359573	1.721389	1.944460	6.572559
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4295.297722	1.746031	2.022186	6.498060
+guard_ptr	stamp	N3emr8stamp_itE		4	8000	4150.516460	1.717317	1.955814	6.570693
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	10960.436340	2.917338	2.550178	10.376261
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11398.434420	3.079856	2.580037	10.314533
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11560.676039	3.212190	2.595005	10.230243
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11282.190861	2.994365	2.602291	10.372694
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11119.342711	3.051671	2.586411	10.385881
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11455.139541	3.085890	2.608678	10.302055
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11126.364826	2.955652	2.536871	10.389990
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11050.420454	2.973628	2.576796	10.400182
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11971.861485	3.655874	2.602440	10.106188
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11224.660881	2.956187	2.552517	10.335476
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11321.870359	2.990605	2.555628	10.233417
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	10998.145974	2.933412	2.553057	10.423206
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11732.105959	3.328383	2.608515	10.202623
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11712.509311	3.504096	2.584834	10.193598
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11561.151491	3.215651	2.592998	10.229516
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11190.136075	3.006024	2.537116	10.392743
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	10880.105268	2.944791	2.507076	10.422675
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	10905.114820	2.888840	2.543742	10.440779
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11327.219714	2.973795	2.519059	10.270949
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11323.280513	2.969905	2.524710	10.282481
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11516.915949	3.253163	2.592813	10.297891
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11135.435241	3.045712	2.564903	10.343828
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11585.103364	3.300152	2.579685	10.254286
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11942.624989	3.580225	2.576991	10.294958
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11322.093349	3.008725	2.591846	10.300993
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11239.394412	2.954295	2.494380	10.298514
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	10967.014384	2.943328	2.570369	10.366141
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11401.454859	3.043517	2.581155	10.279076
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	12211.192600	3.587360	2.619152	10.093551
+guard_ptr	stamp	N3emr8stamp_itE		8	8000	11154.266721	3.051497	2.580641	10.349126
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	36645.367702	4.266254	3.010199	15.599416
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	37002.949631	4.341622	3.035056	15.604053
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	36369.458321	4.329161	3.018559	15.662278
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	35640.036743	4.333983	3.089502	15.780332
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	36477.393870	4.387428	3.067262	15.632249
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	36747.136450	4.285165	2.974922	15.620880
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	40298.233088	5.182232	3.050511	15.270155
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	37596.951091	4.340760	2.959658	15.558806
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	36991.776327	4.374270	3.019741	15.592494
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	37456.753941	4.455793	3.065098	15.551491
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	35026.588484	4.313086	3.072676	15.817596
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	35825.312979	4.343401	3.049679	15.766027
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	40986.634913	5.217979	3.060037	15.194358
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	35551.753551	4.323011	3.067281	15.772226
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	36399.822606	4.413639	3.020268	15.649223
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	35672.290195	4.502838	3.071560	15.694933
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	37471.593060	4.371945	3.021073	15.574497
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	35783.256419	4.246026	3.048337	15.708680
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	35562.065975	4.322453	3.055306	15.793076
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	42547.325569	5.257215	3.044075	15.102679
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	30988.832582	3.424345	3.060196	16.167917
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	35696.288757	4.248121	3.004439	15.735203
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	36557.320455	4.287060	3.013499	15.709469
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	35807.539403	4.271939	2.997280	15.698067
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	41583.297779	5.232308	3.082815	15.173489
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	41780.668765	5.213651	3.039463	15.153163
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	36883.792582	4.280566	3.045865	15.666802
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	36322.123499	4.323086	3.055855	15.702906
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	35713.954961	4.245005	3.085546	15.800047
+guard_ptr	stamp	N3emr8stamp_itE		16	8000	36430.549476	4.259218	3.007571	15.662807
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	72386.701084	4.929506	3.134675	19.985229
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	68816.718181	4.850291	3.203795	20.344624
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	72207.822031	4.830483	3.196694	20.130618
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	71510.617266	4.875188	3.133484	20.185467
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	70099.131074	4.881055	3.174411	20.236641
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	76699.664055	5.643477	3.193750	19.849919
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	65872.608024	4.847463	3.197813	20.455259
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	69290.788447	4.898999	3.169416	20.215967
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	77405.521467	5.659683	3.221713	19.867298
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	70698.968784	4.896414	3.103930	20.169239
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	70214.310420	4.856843	3.161586	20.207589
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	71435.989767	4.906571	3.118945	20.150777
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	70194.425367	4.826307	3.158456	20.266462
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	67458.202246	4.861217	3.180073	20.347042
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	69993.174711	4.872966	3.104199	20.211688
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	70712.824070	4.881389	3.165479	20.164767
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	70589.101793	4.873889	3.162270	20.198756
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	69811.056424	4.839475	3.183066	20.251130
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	81681.718344	5.632932	3.159280	19.705475
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	66930.877334	4.763770	3.128824	20.359027
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	69508.339547	4.887399	3.161042	20.321126
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	69829.275398	4.874032	3.209955	20.276892
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	81334.282415	5.647526	3.197677	19.750662
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	66927.740858	4.800133	3.116478	20.214422
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	68642.396657	4.776962	3.152009	20.219986
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	68207.153707	4.883573	3.145269	20.114048
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	67160.087270	4.784144	3.204613	20.413133
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	72812.970879	4.886563	3.161210	20.087918
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	72566.195363	4.879324	3.117436	20.108435
+guard_ptr	stamp	N3emr8stamp_itE		24	8000	76177.539065	5.547899	3.084500	19.729613
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	101555.403528	5.075912	3.276748	24.130367
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	117652.611234	5.766880	3.330044	23.964372
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	116722.153573	5.238556	3.299154	24.304819
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	104901.907732	5.076574	3.385357	24.525036
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	103711.594805	5.017862	3.333358	24.387755
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	118890.663496	5.205383	3.285902	24.174758
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	97376.281407	5.236581	3.478085	24.570434
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	113595.644145	5.730332	3.391144	24.109368
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	100202.959229	4.476782	3.310704	24.784597
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	116708.138656	5.143611	3.202986	24.126573
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	108296.336563	5.139203	3.391074	24.377553
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	104698.594590	5.591320	3.464365	24.412496
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	112816.888802	5.749737	3.388575	24.193669
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	104322.454998	5.073508	3.327304	24.397132
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	115882.598806	5.767216	3.348854	24.083300
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	117672.845743	5.295757	3.291788	24.262277
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	103759.448159	5.022273	3.267991	24.351688
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	100682.060348	5.070972	3.344881	24.451222
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	105613.747669	5.193541	3.351952	24.386173
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	102479.149393	5.039918	3.370659	24.542950
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	110974.206580	5.142111	3.308521	24.238578
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	99809.368924	4.980956	3.342183	24.494389
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	108790.106186	5.145546	3.249527	24.250933
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	130496.174965	5.270690	3.221895	23.975286
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	99529.082170	5.085103	3.373159	24.380302
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	97243.510104	4.975383	3.340441	24.641635
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	101570.944387	5.054732	3.431477	24.536520
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	99849.970030	5.054957	3.361036	24.519964
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	101832.260980	5.034249	3.401616	24.544028
+guard_ptr	stamp	N3emr8stamp_itE		32	8000	104120.269694	5.070683	3.344485	24.462689
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	149538.766037	4.441449	6.362487	34.491881
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	151273.492328	4.460946	6.643276	34.882706
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	151775.932091	4.446812	6.682758	34.994952
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	150610.048832	4.459530	6.619714	34.702429
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	152066.814893	4.437043	6.618319	35.226374
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	151320.217914	4.433503	6.722970	34.991831
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	152060.625346	4.444893	6.602685	35.062107
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	151036.658611	4.491417	6.569699	34.092714
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	150932.925900	4.475276	6.804667	34.599597
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	150472.399411	4.444639	6.744110	34.642732
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	150014.861562	4.474725	6.559007	34.352650
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	149048.049887	4.477793	6.609126	34.199128
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	149826.675874	4.433759	6.708569	34.503626
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	149866.992078	4.432394	6.775030	34.523844
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	148961.537756	4.485597	6.520452	34.198527
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	150906.263343	4.482724	6.609649	34.654794
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	151739.246929	4.426788	6.742721	35.001312
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	151544.862329	4.451315	6.549630	34.982454
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	149975.742582	4.453568	6.724801	34.469262
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	150399.885884	4.457348	6.761812	34.521888
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	151192.862896	4.433931	6.643137	34.903012
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	151015.538611	4.451715	6.832188	34.650281
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	149740.455146	4.479983	6.704533	34.347039
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	151352.123443	4.426138	6.650348	35.026701
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	149586.443271	4.460089	6.653653	34.432680
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	151795.313104	4.433354	6.700907	35.002863
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	150690.929558	4.443535	6.732532	34.725979
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	151088.576981	4.511894	6.598551	34.192281
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	150445.547605	4.465432	6.712491	34.592452
+guard_ptr	stamp	N3emr8stamp_itE		48	8000	151406.167367	4.417852	6.869144	34.856846
