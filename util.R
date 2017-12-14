@@ -12,7 +12,7 @@ load_data <- function(machine, name, exclude_reclaimers = c())
                                                "dynamic-HPBR"="HPBR",
                                                "LFRC-padded"="LFRC",
                                                "LFRC-padded-20"="LFRC")),
-                           c("LFRC","HPBR","EBR","NEBR","QSBR","stamp"))
+                           c("LFRC","HPBR","EBR","NEBR","QSBR","stamp", "DEBRA"))
   data
 }
 
@@ -37,8 +37,9 @@ color_palette <- function()
     "HPBR" = "#D55E00",
     "EBR" = "#009E43",
     "NEBR" = "#0072B2",
-    "QSBR" = "#E69F00",
-    "stamp" = "#56B4E9")
+    "QSBR" = "#ECA600", 
+    "stamp" = "#56B4E9", 
+    "DEBRA" = "#D886A7")
 }
 
 bar_plot <- function(plot, title, x, y, palette = color_palette(), text_size=10)

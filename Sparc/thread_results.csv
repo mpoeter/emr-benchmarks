@@ -12239,3 +12239,2043 @@ trial	benchmark	reclaimer	reclaimer-type	params	threads	runtime	ns/op
 28	hash_map	stamp	N3emr8stamp_itE		512	8000	1099614323.847245
 29	hash_map	stamp	N3emr8stamp_itE		512	8000	1183333696.878583
 30	hash_map	stamp	N3emr8stamp_itE		512	8000	815020895.349967
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.846246
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.778477
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.390194
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.865467
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.432341
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.541801
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.673183
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.154655
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.434314
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	176.048337
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.984196
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.432128
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.551177
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.813232
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.932965
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.831101
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.992878
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.995814
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.231625
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.600901
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.741874
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.720184
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	176.009530
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.755116
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.333728
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.638911
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.671601
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.693166
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.836241
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	1	8000	175.796966
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	214.121914
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	214.084964
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	214.069392
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	214.028004
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	214.028204
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	213.956504
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	214.013950
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	214.005389
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	213.930230
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	213.937683
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	213.838093
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	213.888789
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	213.962214
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	214.033407
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	214.084223
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	213.861568
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	214.027127
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	213.808707
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	214.045139
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	213.741939
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	213.804825
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	214.035711
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	213.895693
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	213.809955
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	213.909434
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	214.074473
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	213.982285
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	214.126827
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	214.058891
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	2	8000	213.999453
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.313143
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.452277
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.479903
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.430953
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.440944
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.439393
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.487950
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.434165
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.416766
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.419937
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.462366
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.488115
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.465940
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.409391
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.478438
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.484939
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.403108
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.465382
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.459073
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.374880
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.403316
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.466519
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.351376
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.439214
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.423601
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.383355
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.358098
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.403184
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.359412
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	4	8000	249.443729
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.948373
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.854167
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.900583
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.892191
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.916934
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.926526
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.911303
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.916566
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.879030
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.841270
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.791824
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	348.583483
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.928726
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.852450
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.890696
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.826890
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.858731
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.924205
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.803923
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.845570
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.874864
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	335.904368
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.809166
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.876797
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.840412
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.834149
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.777319
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.842001
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	328.838132
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	8	8000	329.079198
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	559.058368
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	558.494400
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	592.594349
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	558.895463
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	558.432894
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	564.001488
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	558.368070
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	591.096928
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	603.451658
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	591.241225
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	558.869894
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	558.537136
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	558.381852
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	559.199631
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	559.787952
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	558.639025
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	559.829206
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	591.607325
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	591.365383
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	558.321394
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	558.532708
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	558.765699
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	591.390579
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	558.538416
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	562.119365
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	558.306344
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	559.381207
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	563.546067
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	559.765021
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	16	8000	568.066182
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	994.882610
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	997.534318
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	993.559847
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	1005.385720
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	1006.332651
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	975.974639
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	1006.768451
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	998.394204
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	1006.368130
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	1002.548091
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	991.087005
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	1005.568455
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	993.535305
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	992.574343
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	1006.465999
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	1006.696896
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	992.046788
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	1003.646239
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	964.585429
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	1005.687549
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	1002.518872
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	999.741342
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	978.828668
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	1005.959134
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	972.387613
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	1000.534249
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	981.689870
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	1006.672287
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	986.091199
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	24	8000	1036.056733
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1387.854645
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1382.149389
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1417.127169
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1314.334099
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1320.151732
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1272.632499
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1298.756569
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1305.578474
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1278.477611
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1294.628778
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1279.867164
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1292.600734
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1273.871455
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1277.214123
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1276.065647
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1273.721830
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1375.365177
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1540.882710
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1393.534678
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1363.356714
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1294.523489
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1274.606244
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1273.034007
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1277.408516
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1273.502775
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1273.633638
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1490.559975
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1302.393725
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1273.152032
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	32	8000	1303.596483
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	2167.340226
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	3932.898344
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	2183.141073
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	3937.260563
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	2209.337336
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	3798.050559
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	2217.328033
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	3799.431196
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	2205.325147
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	3941.190979
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	2219.249556
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	3963.932521
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	2179.398664
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	3899.542770
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	2192.824401
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	3933.083620
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	2171.561312
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	3784.440119
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	2179.324244
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	3975.966829
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	2180.113903
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	3775.807232
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	2184.520027
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	3949.497466
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	2174.026853
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	3815.992881
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	2185.861368
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	3814.168681
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	2180.580043
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	48	8000	3963.451312
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	3546.817617
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	4928.730838
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	3520.267268
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	5579.443138
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	5185.321392
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	6056.914208
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	5573.301553
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	6042.804059
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	5692.765947
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	6073.964742
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	5910.539244
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	5884.260275
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	5911.439408
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	6044.815857
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	5681.159950
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	6055.051367
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	5695.958377
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	6087.844306
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	5656.047680
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	5896.464165
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	5673.049483
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	6054.753865
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	5812.701516
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	5775.259276
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	5764.221925
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	6055.206275
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	5608.676144
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	6055.874362
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	5675.922961
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	64	8000	5838.930484
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	8144.945463
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	11538.693837
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	8335.107118
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	11246.511539
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	8063.042626
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	9578.629845
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	8221.180609
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	9372.975795
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	8281.211182
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	10766.351720
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	8268.559446
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	11250.305551
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	8233.324691
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	9170.554673
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	8266.857577
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	11267.671404
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	8162.148057
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	11595.747598
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	8184.856000
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	11165.080989
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	8254.102657
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	11483.683502
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	8248.732269
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	10887.430066
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	8554.213260
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	10507.743700
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	8769.463091
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	10615.812135
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	8807.835746
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	80	8000	10625.354145
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	10613.915165
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	11826.238023
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	10696.402638
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	13319.937315
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	10683.407628
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	13221.340442
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	10578.497463
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	11272.710143
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	10666.823315
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	12902.903771
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	10604.231785
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	12733.117942
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	10635.391803
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	11252.143139
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	10702.334393
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	11975.030557
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	10332.024598
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	13148.474632
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	10170.460748
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	12869.867845
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	10472.461494
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	13288.752650
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	10458.148641
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	13697.580250
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	10252.146919
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	12941.682396
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	10333.730305
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	13676.081759
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	10093.887870
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	96	8000	13658.987937
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	16556.064539
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	16835.280988
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	15278.468753
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	18566.878756
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	15300.780527
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	17659.619693
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	15371.466087
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	17391.820298
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	15393.481843
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	17471.401559
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	15319.584118
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	17478.943388
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	15270.185066
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	17383.073098
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	15177.404223
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	17459.825647
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	15300.872476
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	18646.498562
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	15365.703609
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	17425.157635
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	15329.121460
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	17454.770809
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	15344.010490
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	17734.782320
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	15276.644839
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	17432.552499
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	15303.143458
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	17434.106649
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	15386.995526
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	128	8000	17442.363552
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21258.496035
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	22803.657931
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21253.031621
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	22867.114887
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21340.239441
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	22836.911824
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21415.740108
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	22518.879120
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21291.668371
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	22786.982075
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21298.699534
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	22554.542498
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21450.525633
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	22845.948082
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21358.374436
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	22576.904358
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21279.694597
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21891.854796
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21305.877841
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21827.212444
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21372.649430
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21836.492154
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21366.460487
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21758.060103
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21357.731423
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21829.352750
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21329.874847
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	22580.412717
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	21329.268735
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	160	8000	24017.123512
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	27666.488598
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	28341.161433
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	27849.921282
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	28429.026568
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	26562.745831
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	26986.473955
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	26365.217461
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	28502.749019
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	26378.145824
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	28574.026458
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	26399.304425
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	31168.295454
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	26445.275685
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	31121.684496
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	26431.375489
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	31037.011314
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	26528.365034
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	31216.981178
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	26486.316568
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	31148.267478
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	26482.412689
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	30190.995112
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	26368.360829
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	29299.880548
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	26375.553190
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	29370.973389
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	26390.717987
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	29461.571561
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	26419.662901
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	192	8000	29309.331046
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	59316.808332
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	56313.261042
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	43331.586533
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	46738.260498
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	41966.225390
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	42799.782852
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	40712.558744
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	43854.445798
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	40723.227052
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	48282.609288
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	41497.630907
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	48163.434446
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	41514.331897
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	43845.957238
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	40394.279715
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	42073.183046
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	40420.635657
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	42856.283539
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	40658.286003
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	43827.964776
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	40629.477104
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	48401.746025
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	42006.746350
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	43689.583556
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	40727.998968
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	43016.428056
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	41006.835136
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	42914.866546
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	40846.380348
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	256	8000	45459.082865
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	89649.966106
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	86980.530278
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	89106.306641
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	87893.673657
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	90794.856459
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	88771.809104
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	91058.071449
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	88840.017957
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	90984.402116
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	89931.222269
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	92507.442164
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	91041.138788
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	93073.065196
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	91110.607516
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	94219.438569
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	92052.838275
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	95586.884791
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	92539.990012
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	96199.935092
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	93812.081293
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	96683.461043
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	93766.822708
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	96594.445207
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	92863.918446
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	93822.943006
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	89631.792322
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	91548.562442
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	88773.431749
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	90754.402234
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	384	8000	88026.392099
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	114837.718253
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	110525.296670
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	109221.659741
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	108864.845124
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	108739.425960
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	109019.303725
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	108924.863912
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	109080.317668
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	109274.783630
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	108979.909130
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	109182.813372
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	108848.436234
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	108969.310956
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	108982.637888
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	109218.938438
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	109033.245730
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	109033.044655
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	108777.364943
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	109259.665027
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	109006.066983
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	109041.928557
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	108831.948286
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	109145.301058
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	109281.074636
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	109106.201425
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	109070.664325
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	109368.691224
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	109189.072835
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	109132.327568
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.799805	512	8000	108975.678251
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.744054
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.683170
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.655328
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.629489
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.648266
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.541387
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.425626
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.615264
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.712339
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.591707
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.576035
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.551421
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.570060
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.562384
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.572992
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.554776
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.580047
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.553673
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.598254
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.555571
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.611160
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.430301
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.562967
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.438737
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.570098
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.401247
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.565880
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.410151
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.592320
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	1	8000	145.430123
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	156.259668
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	156.177584
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	156.294356
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	156.270986
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	156.290212
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	156.165434
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	156.272567
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	156.350084
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	156.296171
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	156.605933
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	156.267873
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	157.594673
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	156.840251
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	156.596784
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	156.831706
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	156.959761
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	157.213548
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	156.776041
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	156.747076
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	157.371080
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	156.713451
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	157.057595
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	157.744636
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	157.440176
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	157.236255
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	157.250419
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	157.016829
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	157.277300
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	157.669541
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	2	8000	157.228424
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	165.597399
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	165.473495
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.155333
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	165.592331
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.230144
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.365613
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.267592
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.584369
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.217719
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.595608
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.597544
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.711433
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.738662
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.928161
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.891152
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.766629
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.979494
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.873522
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.899370
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.995507
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.939228
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.927277
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.927642
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.910627
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.981078
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.617502
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.933220
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.883339
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.968410
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	4	8000	166.923325
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	186.550922
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	186.963135
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.079136
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	186.945857
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.282492
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.213499
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.269170
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.023022
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.209274
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.013676
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.056893
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	189.858205
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.001401
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.186023
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.065336
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.020566
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.036366
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.170644
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.155755
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	186.979639
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.927544
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	186.968513
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.496513
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	186.980525
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.229539
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.053730
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.015600
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.074506
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.058592
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	8	8000	187.033757
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	245.941167
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	246.308212
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	246.855151
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	245.905984
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	246.440177
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	245.786689
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	245.793402
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	259.901134
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	247.618360
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	245.739872
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	248.935712
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	251.886978
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	249.924445
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	258.432061
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	263.718010
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	245.795952
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	245.825155
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	247.417903
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	245.775070
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	269.775923
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	245.850364
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	245.947347
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	247.859851
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	246.453062
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	246.858843
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	245.840068
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	249.173344
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	247.210035
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	246.575716
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	16	8000	245.801462
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	375.946702
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	379.670180
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	381.838355
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	380.561519
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	378.462522
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	380.993780
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	380.302067
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	381.583686
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	379.790686
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	378.746015
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	378.594301
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	381.617172
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	381.631891
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	380.510521
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	380.199508
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	379.885676
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	379.938818
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	381.721640
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	380.629774
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	379.719734
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	381.650671
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	381.685162
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	378.188490
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	381.769059
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	381.615674
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	378.774622
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	379.855410
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	379.332266
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	381.616682
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	24	8000	381.509870
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	482.231458
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	485.644752
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	485.975419
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	498.122998
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	482.190515
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	487.402148
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	481.667111
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	487.152428
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	483.502021
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	481.245375
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	482.524811
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	488.825256
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	484.030871
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	481.874741
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	484.173353
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	501.148167
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	481.097666
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	481.616720
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	486.309019
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	482.847231
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	483.239916
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	487.392413
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	494.307060
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	487.920314
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	484.144177
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	481.315867
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	490.987146
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	481.127464
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	488.378870
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	32	8000	507.425415
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	741.805466
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	1369.364276
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	748.958674
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	1340.459328
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	742.478618
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	1339.932675
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	784.644202
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	1340.240618
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	739.731622
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	1335.046869
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	742.425200
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	1341.191796
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	739.954918
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	1334.596034
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	753.519807
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	1349.379433
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	741.355442
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	1336.179770
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	765.198312
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	1312.408821
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	836.096875
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	1340.825743
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	740.933100
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	1335.003751
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	750.131157
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	1317.917993
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	747.332674
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	1342.768434
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	752.262179
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	48	8000	1333.296663
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1077.625736
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1661.369440
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1067.173176
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1647.409429
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1066.387715
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1725.822727
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1070.998995
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1649.566222
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1064.636462
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1766.617374
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1702.560840
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1842.759066
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1784.713617
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1837.527876
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1830.415967
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1839.562058
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1766.831351
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1841.258059
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1829.879539
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1842.134644
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1820.047927
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1803.680802
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1821.136347
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1843.085457
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1786.149289
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1841.460773
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1782.364516
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1882.083171
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1820.994848
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	64	8000	1883.017836
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2379.402896
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2561.024950
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2383.292044
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2789.351256
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2404.147264
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2788.325774
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2407.217276
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2801.989958
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2412.306728
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2793.514966
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2470.440194
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2767.745313
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2468.411984
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2776.822768
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2474.254305
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2785.824799
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2474.230224
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2776.358032
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2474.006577
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2781.634401
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2470.497466
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2790.717645
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2476.371899
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2779.585884
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2472.021971
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2789.970869
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2475.152373
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2791.393091
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2478.345321
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	80	8000	2783.383183
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3140.682215
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3671.370685
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3195.167589
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3626.833261
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3176.135689
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3675.541974
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3200.692169
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3756.147386
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3223.611106
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3826.049102
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3215.423442
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3812.486089
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3225.701867
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3805.929734
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3225.637129
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3801.620065
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3211.811768
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3836.453080
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3192.307831
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3845.158345
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3205.898791
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3789.315723
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3142.088572
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3839.405092
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3179.905265
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3808.160663
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3137.878607
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3863.762619
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3146.841946
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	96	8000	3859.772942
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	5275.577248
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	5186.316008
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	4717.046509
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	5150.539035
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	4735.768730
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	5198.809618
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	4783.996786
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	5192.794242
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	4813.643739
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	5192.028795
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	4791.209605
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	5139.155278
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	4752.033809
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	5286.116019
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	4826.238821
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	5212.046327
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	4792.037510
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	5147.296323
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	4820.580897
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	5165.086617
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	4798.868584
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	5232.908765
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	4827.253901
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	5191.893013
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	4763.655046
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	5169.922151
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	4788.827805
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	5188.076203
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	4807.459581
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	128	8000	5270.535017
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6759.723809
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6594.380272
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6524.061429
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6866.917448
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6502.523648
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6881.556833
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6544.043246
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	7037.497631
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6575.557435
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6986.246838
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6504.303756
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6975.379335
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6497.378121
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6953.228170
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6574.390441
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6956.337827
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6539.824677
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6965.498879
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6559.506945
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6984.750308
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6545.099818
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	7064.939088
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6572.167570
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6961.678002
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6531.433734
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6966.002130
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6536.977990
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6951.098605
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6458.066046
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	160	8000	6654.538234
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8193.548722
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8890.916213
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8417.933583
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8837.101588
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8348.139617
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8806.502794
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8325.077061
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8757.819562
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8378.046545
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8823.704113
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8354.880378
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8821.026984
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8331.975309
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8676.973405
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8371.200771
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8874.145191
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8396.148735
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8850.754367
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8375.156093
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8809.955245
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8381.922202
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8824.208621
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8357.105449
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8877.887599
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8403.212828
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8873.103634
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8370.402032
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	9013.460476
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8393.680587
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	192	8000	8992.106161
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	14946.959653
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	15162.397152
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	13203.714103
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	13852.531056
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	13023.193529
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12811.438957
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12331.568831
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12947.806297
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12418.077880
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	13462.589389
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12423.129873
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12788.275645
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12352.312411
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12826.962440
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12307.849645
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12804.802821
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12341.008556
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12823.490737
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12307.253986
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12918.510099
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12403.509670
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	13293.787463
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12495.327758
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12809.999616
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12372.492651
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12831.395018
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12344.236324
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12769.447743
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12401.562300
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	256	8000	12831.215728
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	26005.142593
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	25637.208864
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	26140.949703
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	25544.107316
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	26352.718156
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	25690.370826
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	26424.660726
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	25772.937213
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	26573.346822
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	25792.084684
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	26481.268695
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	25780.269488
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	26651.435309
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	25987.201468
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	26755.259627
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	25946.116987
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	26842.361481
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	25856.120146
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	26766.149455
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	25935.025353
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	26869.612045
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	25938.124480
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	26822.277873
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	25898.764690
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	26391.854236
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	25548.985276
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	26209.115956
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	25364.492153
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	25726.398891
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	384	8000	24912.387396
+1	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	34053.396021
+2	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	34032.949437
+3	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	34258.677690
+4	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32814.730195
+5	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32461.299245
+6	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32401.567245
+7	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32423.690727
+8	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32365.398993
+9	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32431.536585
+10	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32408.389276
+11	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32431.818158
+12	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32501.605979
+13	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32437.592600
+14	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32473.305815
+15	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32457.986892
+16	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32469.039484
+17	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32407.571901
+18	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32382.422216
+19	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32427.798845
+20	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32371.876381
+21	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32444.445355
+22	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32430.248884
+23	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32447.466289
+24	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32372.727275
+25	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32479.863967
+26	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32447.465535
+27	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32472.225238
+28	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32424.363297
+29	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32399.054933
+30	list	DEBRA	N3emr5debraILm20EEE	elements: 10; modify-fraction: 0.199219	512	8000	32407.731903
+1	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	102.931098
+2	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	103.309784
+3	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	103.345311
+4	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	103.388086
+5	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	103.437646
+6	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	112.387214
+7	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	112.341689
+8	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	111.500253
+9	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	108.070911
+10	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	112.929484
+11	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	111.484451
+12	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	108.497267
+13	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	111.708206
+14	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	110.484842
+15	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	108.091821
+16	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	113.863426
+17	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	116.537423
+18	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	125.030088
+19	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	128.501622
+20	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	139.027932
+21	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	164.668364
+22	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	185.022566
+23	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	205.254107
+24	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	233.326987
+25	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	252.077429
+26	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	268.537365
+27	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	287.797704
+28	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	303.192617
+29	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	318.164939
+30	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	1	8000	329.368321
+1	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	193.010315
+2	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	194.102096
+3	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	193.620909
+4	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	192.160130
+5	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	193.136659
+6	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	193.535202
+7	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	193.620083
+8	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	251.174765
+9	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	324.302828
+10	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	454.414097
+11	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	554.379777
+12	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	577.409194
+13	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	576.928108
+14	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	645.116741
+15	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	662.771155
+16	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	660.097216
+17	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	661.239335
+18	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	678.664908
+19	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	715.252738
+20	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	740.440514
+21	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	747.481574
+22	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	723.134132
+23	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	718.301612
+24	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	691.583894
+25	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	679.721917
+26	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	676.692177
+27	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	679.786352
+28	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	696.221671
+29	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	686.412113
+30	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	2	8000	684.060719
+1	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	339.685688
+2	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	340.802366
+3	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	339.010964
+4	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	342.106205
+5	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	373.301685
+6	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	703.033248
+7	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	829.001987
+8	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	803.016240
+9	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	997.331593
+10	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1097.987192
+11	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1137.918974
+12	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1130.342422
+13	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1059.793138
+14	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1038.097648
+15	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1128.823642
+16	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1130.633580
+17	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1055.754863
+18	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	977.910631
+19	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1029.525117
+20	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1111.103511
+21	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1112.750573
+22	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1091.192832
+23	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1143.146851
+24	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1129.579576
+25	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1171.146833
+26	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1134.384677
+27	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1167.472948
+28	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1197.728831
+29	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1241.818470
+30	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	4	8000	1173.320214
+1	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	756.512332
+2	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	770.796365
+3	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	776.636361
+4	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	779.474890
+5	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	878.773537
+6	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1087.156575
+7	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1114.225323
+8	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1191.022242
+9	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1366.300429
+10	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1414.257600
+11	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1576.829148
+12	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1718.207368
+13	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1497.997283
+14	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1521.001818
+15	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1768.090286
+16	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1704.566234
+17	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1343.204884
+18	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1108.126301
+19	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1280.554205
+20	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1138.405965
+21	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1279.228210
+22	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1514.619858
+23	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1699.913043
+24	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1818.825141
+25	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1955.335452
+26	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1882.313805
+27	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	2064.205919
+28	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	2035.020407
+29	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1961.264909
+30	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	8	8000	1774.818214
+1	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2399.568639
+2	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	4267.294142
+3	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2354.652953
+4	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	4370.775295
+5	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2377.344081
+6	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2381.438824
+7	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	4389.592323
+8	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2397.904153
+9	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2388.546987
+10	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2391.500700
+11	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2393.560467
+12	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2396.582718
+13	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2398.985299
+14	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2389.112890
+15	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2393.871673
+16	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	4432.770957
+17	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2468.180674
+18	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2392.335086
+19	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2402.665519
+20	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2401.210834
+21	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	4154.236863
+22	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	3962.698924
+23	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2385.122049
+24	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2381.963254
+25	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2330.555747
+26	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2374.811263
+27	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2441.669430
+28	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2910.932810
+29	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2388.410293
+30	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	16	8000	2399.197031
+1	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	17253.083188
+2	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	11873.008003
+3	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	7794.988766
+4	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	8769.066315
+5	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	5308.435986
+6	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	8594.778880
+7	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	15554.942154
+8	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	12751.406605
+9	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	6729.706646
+10	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	4656.211343
+11	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	4574.966457
+12	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	4989.993491
+13	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	7201.409051
+14	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	8522.406863
+15	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	8073.110968
+16	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	9299.500295
+17	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	8722.769497
+18	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	18418.201505
+19	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	18057.749953
+20	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	20939.995616
+21	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	19854.596706
+22	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	19106.034142
+23	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	17346.659089
+24	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	20805.527510
+25	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	19665.788448
+26	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	17627.144723
+27	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	19407.474682
+28	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	17970.139812
+29	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	19827.446534
+30	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	24	8000	15510.745061
+1	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7595.733218
+2	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7716.628992
+3	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7865.235949
+4	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7904.247455
+5	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7462.080020
+6	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	8096.956961
+7	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	6817.290240
+8	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7836.184365
+9	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7775.009422
+10	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7182.023416
+11	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7749.160221
+12	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7446.654486
+13	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7586.319124
+14	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7428.668577
+15	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	8108.596834
+16	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7088.542802
+17	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	8356.246881
+18	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7712.961735
+19	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7907.026488
+20	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	6855.185311
+21	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7630.379245
+22	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7730.943415
+23	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7542.828077
+24	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7616.863257
+25	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7388.515506
+26	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7259.797762
+27	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7292.207829
+28	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7535.491398
+29	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7441.009617
+30	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	32	8000	7603.857964
+1	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	13738.703472
+2	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	26595.065812
+3	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	12800.473141
+4	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	24536.699583
+5	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	13435.457294
+6	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	26971.273082
+7	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	13634.743017
+8	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	24845.183539
+9	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	13778.304175
+10	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	23994.190196
+11	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	13893.363546
+12	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	24897.712472
+13	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	13982.477733
+14	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	23999.645967
+15	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	13877.838528
+16	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	25198.060994
+17	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	12773.913640
+18	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	23525.324279
+19	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	13276.344274
+20	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	24083.812421
+21	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	13758.148198
+22	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	25113.771977
+23	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	13379.491539
+24	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	23319.846682
+25	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	13142.532905
+26	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	23987.739305
+27	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	13491.882190
+28	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	23901.924539
+29	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	13625.488929
+30	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	48	8000	23546.556244
+1	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	22936.998544
+2	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	35928.627146
+3	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	22778.762914
+4	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	32851.590536
+5	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	23126.800988
+6	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	34930.498505
+7	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	23882.963857
+8	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	23367.651440
+9	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	23659.313576
+10	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	38950.655608
+11	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	28376.018868
+12	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	36449.574444
+13	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	28146.121088
+14	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	35955.775473
+15	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	36382.255226
+16	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	44789.643314
+17	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	37565.813923
+18	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	38156.507173
+19	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	36896.348002
+20	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	35564.556571
+21	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	28697.536707
+22	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	34700.728042
+23	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	27894.298193
+24	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	36174.168815
+25	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	27987.893899
+26	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	34822.428727
+27	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	28384.553589
+28	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	38500.825432
+29	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	35886.621502
+30	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	64	8000	33677.868252
+1	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	63121.849883
+2	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	54961.706739
+3	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	64364.194679
+4	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	50558.126089
+5	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	65782.422523
+6	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	89395.528159
+7	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	64907.159009
+8	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	51764.876575
+9	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	66240.141780
+10	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	150998.903909
+11	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	63910.949075
+12	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	65570.969439
+13	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	61564.352605
+14	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	128772.000303
+15	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	63688.890503
+16	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	128585.813850
+17	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	65011.111641
+18	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	125345.467319
+19	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	61075.848092
+20	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	81460.316929
+21	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	57826.459399
+22	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	144124.234349
+23	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	57515.389980
+24	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	110765.810012
+25	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	57560.359050
+26	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	128711.840330
+27	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	58118.095264
+28	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	80394.492531
+29	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	55762.372249
+30	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	80	8000	79531.726099
+1	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	55845.454968
+2	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	137645.373241
+3	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	57865.446323
+4	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	101688.871884
+5	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	55558.114018
+6	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	102171.788397
+7	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	55799.614449
+8	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	97586.062886
+9	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	56301.283176
+10	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	98968.932174
+11	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	55457.242595
+12	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	97377.759150
+13	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	53809.289874
+14	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	99632.733635
+15	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	56079.529211
+16	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	102498.986000
+17	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	55981.569490
+18	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	106609.615188
+19	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	56476.158619
+20	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	105254.093913
+21	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	57934.190295
+22	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	107015.278217
+23	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	58605.527266
+24	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	110779.186918
+25	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	59658.360443
+26	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	103674.830975
+27	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	58692.936509
+28	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	100366.742773
+29	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	57059.940777
+30	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	96	8000	105054.045449
+1	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	139041.111308
+2	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	115980.584721
+3	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	85588.158382
+4	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	111228.375951
+5	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	86122.687026
+6	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	111819.957953
+7	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	85740.020188
+8	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	109424.699188
+9	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	84589.749837
+10	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	110809.050262
+11	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	82348.965464
+12	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	108487.430126
+13	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	85314.842721
+14	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	109828.623996
+15	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	83281.348559
+16	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	111806.623279
+17	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	85376.810389
+18	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	111155.155856
+19	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	85960.406147
+20	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	111435.370421
+21	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	84217.578018
+22	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	109684.054314
+23	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	83466.142280
+24	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	108479.512130
+25	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	82910.776234
+26	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	107446.839773
+27	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	82652.208575
+28	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	108181.564627
+29	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	83405.505279
+30	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	128	8000	109474.128894
+1	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	116595.218633
+2	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	128561.521337
+3	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	118269.649528
+4	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	196130.130182
+5	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	116625.206761
+6	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	243557.901064
+7	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	116727.169609
+8	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	243609.060021
+9	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	118288.426974
+10	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	221806.340213
+11	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	118255.403801
+12	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	203511.637911
+13	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	116347.064863
+14	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	215990.368958
+15	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	118832.695136
+16	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	225352.446535
+17	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	120338.075607
+18	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	228230.470303
+19	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	119733.378675
+20	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	225381.388904
+21	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	120104.190601
+22	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	222445.429276
+23	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	118081.067126
+24	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	226827.935309
+25	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	120649.092824
+26	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	226659.819439
+27	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	119472.278174
+28	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	198948.131794
+29	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	118222.274959
+30	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	160	8000	220485.663383
+1	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	150517.110333
+2	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	168951.809728
+3	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	155779.862712
+4	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	206159.291065
+5	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	152857.965592
+6	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	212440.805121
+7	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	151386.896883
+8	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	213319.846578
+9	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	155247.804396
+10	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	213363.355530
+11	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	153815.284383
+12	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	207822.107216
+13	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	153052.550825
+14	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	213775.562259
+15	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	154151.867158
+16	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	209840.979368
+17	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	154317.293466
+18	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	224577.526255
+19	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	157269.833619
+20	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	213559.659805
+21	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	156747.633421
+22	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	218783.680132
+23	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	154270.427721
+24	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	217175.923488
+25	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	149698.423625
+26	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	209433.525891
+27	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	150187.803962
+28	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	208847.737522
+29	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	152632.576321
+30	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	192	8000	215425.313841
+1	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	396828.365217
+2	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	462229.533805
+3	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	606206.496589
+4	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	412945.110480
+5	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	548023.155223
+6	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	424949.191747
+7	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	435333.118377
+8	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	402062.805825
+9	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	411754.545357
+10	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	413199.570940
+11	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	356138.676829
+12	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	443309.499650
+13	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	334602.636595
+14	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	454844.424063
+15	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	344760.947374
+16	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	455412.275599
+17	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	316805.666823
+18	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	450355.331451
+19	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	390318.265400
+20	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	480198.468317
+21	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	411426.957664
+22	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	397332.279958
+23	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	429239.272218
+24	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	444157.814770
+25	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	336638.536375
+26	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	450706.281098
+27	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	321242.190209
+28	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	455076.810799
+29	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	345442.733729
+30	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	256	8000	400125.670366
+1	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	624262.489510
+2	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	552275.788912
+3	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	651351.461272
+4	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	558346.014787
+5	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	649904.948692
+6	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	539521.370607
+7	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	687559.114366
+8	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	552603.259207
+9	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	701740.073301
+10	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	553336.515021
+11	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	696612.155285
+12	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	559996.842928
+13	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	778176.503846
+14	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	599051.143478
+15	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	796697.987912
+16	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	547054.593351
+17	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	575598.940328
+18	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	531705.161328
+19	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	538647.850217
+20	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	537070.139384
+21	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	535912.189649
+22	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	553650.011274
+23	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	531525.144892
+24	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	539406.224257
+25	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	548260.974733
+26	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	535028.163674
+27	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	553179.588803
+28	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	544556.666778
+29	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	541893.179328
+30	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	384	8000	538539.630885
+1	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	763568.058419
+2	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	788479.442426
+3	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	729272.914024
+4	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	719232.547493
+5	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	711133.323064
+6	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	682447.494922
+7	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	697170.986661
+8	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	691374.701706
+9	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	738335.609959
+10	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	689530.192548
+11	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	686477.581428
+12	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	773889.799692
+13	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	702889.958377
+14	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	708397.676060
+15	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	698945.686856
+16	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	709377.295175
+17	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	707863.969973
+18	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	707799.552537
+19	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	704127.079679
+20	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	690709.859863
+21	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	693133.628426
+22	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	706989.899309
+23	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	707519.573836
+24	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	704972.845521
+25	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	694343.020736
+26	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	698713.584644
+27	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	707880.957754
+28	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	707533.320142
+29	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	706281.449895
+30	queue	DEBRA	N3emr5debraILm20EEE	elements: 10	512	8000	703897.323541
+1	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	64725510.241935
+2	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62021149.038462
+3	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62062543.837209
+4	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62095905.697674
+5	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62069898.604651
+6	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62082203.488372
+7	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62117411.162791
+8	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62105943.604651
+9	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62172311.457364
+10	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62115561.395349
+11	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62094375.348837
+12	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62148988.666667
+13	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62176441.682171
+14	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62151030.116279
+15	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62123547.961240
+16	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62134521.860465
+17	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62110488.426357
+18	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62081549.302326
+19	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62109138.255814
+20	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62132482.790698
+21	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62091208.488372
+22	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62089560.813953
+23	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62115649.364341
+24	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62201599.186047
+25	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62163580.000000
+26	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62243873.542636
+27	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62264880.294574
+28	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62103446.744186
+29	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62073451.217054
+30	hash_map	DEBRA	N3emr5debraILm20EEE		1	8000	62108850.984496
+1	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	64151032.020000
+2	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62692028.085938
+3	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62606736.855469
+4	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62671938.167969
+5	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62677466.453125
+6	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62729410.222656
+7	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62591168.527344
+8	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62791485.500000
+9	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62574264.375000
+10	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62730154.421875
+11	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62690312.460938
+12	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62598566.890625
+13	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62676473.414062
+14	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62690706.593750
+15	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62533419.085938
+16	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62745996.386719
+17	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62715572.488281
+18	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62712482.343750
+19	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62687295.964844
+20	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62743843.187500
+21	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62837150.214844
+22	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62597427.187500
+23	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62568776.546875
+24	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62628743.144531
+25	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62821773.050781
+26	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62728132.699219
+27	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62764861.175781
+28	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62698171.644531
+29	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62601494.882812
+30	hash_map	DEBRA	N3emr5debraILm20EEE		2	8000	62673682.992188
+1	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	63069837.358268
+2	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61423413.433206
+3	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61572383.842308
+4	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61372558.538168
+5	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61338235.204198
+6	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61572879.059615
+7	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61434322.154580
+8	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61354358.635496
+9	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61395388.896947
+10	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61496253.103053
+11	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61441808.958015
+12	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61503057.253817
+13	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61394912.977099
+14	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61413265.574427
+15	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61461280.362595
+16	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61525546.003817
+17	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61499807.148855
+18	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61444439.242366
+19	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61626620.076923
+20	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61568422.703846
+21	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61428464.211832
+22	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61513119.103053
+23	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61572791.828846
+24	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61557593.425000
+25	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61599396.994231
+26	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61442336.164122
+27	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61419067.458015
+28	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61558509.909615
+29	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61568035.917308
+30	hash_map	DEBRA	N3emr5debraILm20EEE		4	8000	61449323.658397
+1	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	61602256.405769
+2	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	58946735.729779
+3	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	58857876.149816
+4	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	58868537.164522
+5	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	59033504.363971
+6	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	58848297.429228
+7	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	58868841.625919
+8	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	58844642.060662
+9	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	59075341.124081
+10	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	59050550.079963
+11	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	59049245.528493
+12	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	58830277.167279
+13	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	58990594.678309
+14	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	58979486.318015
+15	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	59065044.223346
+16	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	59214515.713235
+17	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	58866918.957721
+18	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	59017747.817096
+19	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	59222024.012868
+20	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	58980111.341912
+21	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	58963958.693015
+22	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	58859939.599265
+23	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	59012343.148897
+24	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	58820116.292085
+25	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	59100713.637868
+26	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	58895089.329963
+27	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	58919522.985294
+28	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	58842658.952206
+29	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	58939846.894301
+30	hash_map	DEBRA	N3emr5debraILm20EEE		8	8000	59228429.643382
+1	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	68782672.122453
+2	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	59109922.807578
+3	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58823738.411872
+4	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58268019.187953
+5	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58735499.920620
+6	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58529530.087135
+7	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	59418467.787794
+8	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58918381.070163
+9	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58746271.074361
+10	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	57903140.849370
+11	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	59684927.554903
+12	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58111096.996830
+13	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58614075.665146
+14	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58441783.892336
+15	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58652221.164234
+16	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58832306.323013
+17	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58325148.043025
+18	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58383992.439764
+19	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58638734.145073
+20	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58534350.215785
+21	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	60176219.448429
+22	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58245791.647228
+23	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58531368.796533
+24	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58611248.584398
+25	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58778523.944799
+26	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58380003.701421
+27	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58906901.868154
+28	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58391218.117754
+29	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58252053.618273
+30	hash_map	DEBRA	N3emr5debraILm20EEE		16	8000	58348942.403986
+1	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	90537830.010948
+2	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63356998.072533
+3	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63419927.136933
+4	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63580791.022574
+5	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63455181.998365
+6	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63888553.163201
+7	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63544824.201955
+8	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63457504.361971
+9	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63708537.371812
+10	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63670568.621640
+11	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63643585.668239
+12	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63448836.530863
+13	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63490949.639808
+14	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63521784.749526
+15	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63463775.065971
+16	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63973910.580225
+17	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63478019.476987
+18	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63711116.718505
+19	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63427697.471504
+20	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63719202.563294
+21	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	64022638.564071
+22	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63985543.819124
+23	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63615919.134008
+24	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	64347170.830767
+25	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63983244.316413
+26	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63958553.846019
+27	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63595515.942323
+28	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63574255.724101
+29	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63473318.287805
+30	hash_map	DEBRA	N3emr5debraILm20EEE		24	8000	63528208.578989
+1	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	104305218.804434
+2	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	72130585.881614
+3	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	72309501.495644
+4	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	73312901.672837
+5	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	73806931.915816
+6	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	73257293.722162
+7	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	74429387.436953
+8	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	73801265.148222
+9	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	72560760.730544
+10	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	73303145.019558
+11	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	74356785.671310
+12	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	73374995.451895
+13	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	74727227.541047
+14	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	75884694.910557
+15	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	73113199.504290
+16	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	72912724.460227
+17	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	73598681.550966
+18	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	75833474.336571
+19	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	72522022.764445
+20	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	73488499.041332
+21	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	71869314.183654
+22	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	74284732.305485
+23	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	72700958.779095
+24	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	74012936.405047
+25	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	79679072.885591
+26	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	72772916.779181
+27	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	73612280.229068
+28	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	72999795.162172
+29	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	74107543.975063
+30	hash_map	DEBRA	N3emr5debraILm20EEE		32	8000	73135833.243161
+1	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	150678273.885501
+2	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	68980562.050062
+3	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	83067184.846263
+4	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	71591327.267758
+5	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	79047825.853894
+6	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	73703477.315394
+7	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	75056276.318681
+8	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	72473915.441776
+9	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	74873455.291871
+10	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	76589087.899389
+11	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	72987328.825929
+12	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	73247361.979921
+13	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	74157277.779445
+14	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	72727907.608979
+15	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	107545703.810062
+16	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	74909277.976365
+17	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	80738675.823523
+18	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	81354783.080947
+19	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	73013449.344474
+20	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	76975005.371936
+21	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	76927211.297948
+22	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	78045746.880126
+23	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	77357403.996842
+24	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	77585325.789435
+25	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	88198636.816168
+26	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	77373337.198545
+27	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	71691618.921469
+28	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	86996260.572009
+29	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	82420678.253619
+30	hash_map	DEBRA	N3emr5debraILm20EEE		48	8000	79876896.361733
+1	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	153521685.981621
+2	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	677341317.333541
+3	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	3975719216.855469
+4	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	98201027.574737
+5	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	88079899.245653
+6	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	93696017.936557
+7	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	97371578.446836
+8	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	83622999.775776
+9	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	78755972.202827
+10	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	89328313.741240
+11	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	106236704.454196
+12	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	78332588.353339
+13	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	85513466.090243
+14	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	224638544.303709
+15	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	2676133876.509561
+16	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	99088883.239283
+17	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	76942970.123609
+18	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	83378556.009856
+19	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	106381364.963199
+20	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	81129640.936652
+21	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	97271059.343073
+22	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	79712869.368939
+23	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	152967188.005154
+24	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	82964489.262363
+25	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	154286122.594069
+26	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	95721141.481457
+27	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	248431873.943842
+28	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	107102849.291323
+29	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	101396242.542878
+30	hash_map	DEBRA	N3emr5debraILm20EEE		64	8000	84129793.050096
+1	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	416902796.517738
+2	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	89399549.821420
+3	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	113865339.395619
+4	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	128749368.916293
+5	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	2755258267.988412
+6	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	78935902.863772
+7	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	180676752.386896
+8	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	807721780.233703
+9	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	1914520471.172406
+10	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	177246357.223870
+11	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	1136057427.807146
+12	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	146738671.109615
+13	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	2588695409.542856
+14	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	81075617.554961
+15	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	137515651.732683
+16	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	160457245.054758
+17	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	862185536.248718
+18	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	131124144.715681
+19	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	437310269.029341
+20	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	3601035866.947917
+21	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	108958144.456461
+22	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	355214518.877708
+23	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	3703763783.825961
+24	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	260194757.443899
+25	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	2165973215.311453
+26	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	138321594.023992
+27	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	5207529603.004570
+28	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	145459669.277632
+29	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	102492910.073747
+30	hash_map	DEBRA	N3emr5debraILm20EEE		80	8000	191609640.299429
+1	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	823537908.781648
+2	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	784972163.688835
+3	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	6679783152.135854
+4	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	96647673.920980
+5	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	3203558423.238029
+6	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	286473574.033795
+7	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	2818481362.898300
+8	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	247086884.662390
+9	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	2634124546.260491
+10	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	262153071.553834
+11	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	106290216.689026
+12	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	1063538318.175179
+13	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	226913441.300247
+14	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	1355332732.407795
+15	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	856676727.931544
+16	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	1250701502.255539
+17	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	430151944.920263
+18	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	950433297.359469
+19	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	445781295.913813
+20	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	12552019437.244791
+21	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	14518933692.427084
+22	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	15153852602.791666
+23	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	14650149010.083334
+24	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	15462370070.291666
+25	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	10017140098.640625
+26	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	17132804760.645834
+27	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	18172443647.875000
+28	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	9686070354.161459
+29	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	17455562784.750000
+30	hash_map	DEBRA	N3emr5debraILm20EEE		96	8000	18287640385.531250
+1	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	956057976.392966
+2	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	1284162884.099078
+3	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	272970599.141139
+4	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	20935887798.129662
+5	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	364445690.832788
+6	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	4030026862.046671
+7	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	242098457.934706
+8	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	1846501768.150351
+9	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	142622894.430253
+10	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	745574901.258439
+11	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	132745289.081328
+12	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	507363194.010833
+13	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	135748027.176054
+14	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	380296495.625030
+15	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	15311635093.942383
+16	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	16667267424.414062
+17	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	18508330472.882812
+18	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	23394570020.125000
+19	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	19319542426.257812
+20	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	24650330840.765625
+21	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	9384664755.846354
+22	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	20921904062.757812
+23	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	19063205870.796875
+24	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	30979517748.078125
+25	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	3861893055.082291
+26	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	21758088070.468750
+27	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	9629141971.209631
+28	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	19564180866.601562
+29	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	19361508706.835938
+30	hash_map	DEBRA	N3emr5debraILm20EEE		128	8000	19621436731.476562
+1	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	1037378936.625719
+2	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	2481021792.222053
+3	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	2787207775.874212
+4	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	11246005343.028126
+5	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	16001823559.424999
+6	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	17619555065.518749
+7	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	16998564435.368750
+8	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	19181407714.206249
+9	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	24190326162.968750
+10	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	23284422108.174999
+11	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	21370450152.931252
+12	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	23449924477.762501
+13	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	23500209141.987499
+14	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	24646028010.275002
+15	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	20560519366.993752
+16	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	26476108911.825001
+17	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	22951163026.831249
+18	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	23369494567.187500
+19	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	27676266177.887501
+20	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	943917222.690172
+21	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	231677875.212011
+22	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	153466251.113823
+23	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	5156407458.685071
+24	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	648906645.621577
+25	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	1287780237.438937
+26	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	363533383.262648
+27	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	23487273682.843750
+28	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	21955926083.496876
+29	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	23005675097.674999
+30	hash_map	DEBRA	N3emr5debraILm20EEE		160	8000	3677399895.586089
+1	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	1155225839.088442
+2	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	4268096917.568576
+3	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	14072063503.562500
+4	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	14477119860.354166
+5	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	15397503698.953125
+6	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	15276105998.041666
+7	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	15966191082.583334
+8	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	16586244567.218750
+9	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	15793413845.713541
+10	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	19572123630.973957
+11	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	18879127662.078125
+12	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	19314547045.114582
+13	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	19845316595.697918
+14	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	25025009561.979168
+15	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	25569356944.223957
+16	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	601902308.617054
+17	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	1638230604.165327
+18	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	1221159514.836771
+19	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	808870050.539047
+20	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	1240458895.248058
+21	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	11822117904.960938
+22	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	21368369921.437500
+23	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	21146303203.614582
+24	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	21974627591.927082
+25	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	7548921025.929253
+26	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	29170354164.197918
+27	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	31527991333.307293
+28	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	35927844651.729164
+29	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	28466544757.114582
+30	hash_map	DEBRA	N3emr5debraILm20EEE		192	8000	3901306139.961845
+1	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	1413421291.537411
+2	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	6283173221.469728
+3	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	6037946967.435548
+4	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	14385057923.171875
+5	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	17694513554.863281
+6	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	18858628782.363281
+7	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	20685395554.058594
+8	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	22287475188.128906
+9	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	24328127823.988281
+10	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	21948545600.656250
+11	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	25311746664.625000
+12	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	2121979758.330704
+13	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	32401189102.015625
+14	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	33331969746.148438
+15	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	3462045276.700150
+16	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	33028702897.589844
+17	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	30920724024.773438
+18	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	4787219213.976707
+19	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	39428451231.453125
+20	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	38246444914.050781
+21	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	34668748289.578125
+22	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	14612862608.801758
+23	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	40910993478.378906
+24	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	35450379897.912109
+25	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	39286968141.871094
+26	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	8439392960.574671
+27	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	43741914342.312500
+28	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	40185369132.503906
+29	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	49184832434.187500
+30	hash_map	DEBRA	N3emr5debraILm20EEE		256	8000	12150238545.004299
+1	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	3330869114.604655
+2	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	4082736106.723784
+3	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	18072998169.679688
+4	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	17732430376.752605
+5	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	22820750865.916668
+6	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	23933105361.101562
+7	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	23832808246.294270
+8	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	2751904103.598852
+9	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	38846274272.044273
+10	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	3074828294.413624
+11	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	37527500473.550781
+12	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	9797330806.453993
+13	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	38698736541.885414
+14	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	45182766777.393227
+15	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	22918670835.072048
+16	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	44034786068.393227
+17	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	36949403763.208336
+18	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	45798947590.192711
+19	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	52791610461.723961
+20	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	37377650425.130211
+21	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	53996634025.924477
+22	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	42561607515.645836
+23	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	56524843898.627602
+24	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	55367964171.658852
+25	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	46083024939.109375
+26	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	48607924400.018227
+27	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	20442520272.794048
+28	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	57623817017.148438
+29	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	55944729543.494789
+30	hash_map	DEBRA	N3emr5debraILm20EEE		384	8000	51112518621.687500
+1	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	6962848932.211715
+2	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	11352808613.898602
+3	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	23864466921.568359
+4	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	26994609078.828125
+5	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	27167591736.263672
+6	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	31410305152.359375
+7	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	2933223196.331306
+8	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	6744168243.392228
+9	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	43048505554.097656
+10	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	10679275572.552998
+11	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	13008314242.152670
+12	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	51251135287.314453
+13	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	21505638985.043938
+14	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	55490408443.177734
+15	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	48821311466.736328
+16	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	51553581131.398438
+17	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	51262387014.097656
+18	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	66003205545.599609
+19	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	52762090798.039062
+20	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	64434981754.388672
+21	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	51354019857.853516
+22	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	69999639869.716797
+23	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	59771645040.978516
+24	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	12620141535.100332
+25	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	75955542570.849609
+26	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	65373329044.845703
+27	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	83815728614.271484
+28	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	65185640017.341797
+29	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	89134653572.355469
+30	hash_map	DEBRA	N3emr5debraILm20EEE		512	8000	65567089264.417969

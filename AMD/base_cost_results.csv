@@ -1,901 +1,901 @@
-benchmark	reclaimer	reclaimer-type	params	threads	runtime	ns/op
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.617851
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.623120
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.622992
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.619703
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.623206
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.616612
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.619195
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.616421
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.618781
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.622395
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.618596
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.614128
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.618717
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.615312
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.618289
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.618593
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.638541
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.613954
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.623479
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.611646
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.621391
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.620118
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.619992
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.662375
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.677661
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.680619
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.678019
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.678596
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.677463
-guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.702240
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.062762
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.074542
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.071292
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.062723
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.072613
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.061832
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.074083
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.053402
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.064817
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.069980
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.055211
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.066956
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.075581
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.070861
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.072050
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.072858
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.066193
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.067377
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.063316
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.069367
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.076784
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.049670
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.069714
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.050514
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.070840
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.073193
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.080156
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.071673
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.070587
-guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.062123
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.131122
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.122093
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.071728
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.136424
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.109489
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.119052
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.099753
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.107408
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.096148
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.100268
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.098769
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.094127
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.114777
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.136694
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.096086
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.090858
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.095598
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.112569
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.095877
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.108865
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.122638
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.099983
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.091919
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.096379
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.094950
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.134325
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.123621
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.083676
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.100430
-guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.109387
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.868824
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.378860
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.843344
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.577839
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.771732
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	44.762153
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.310891
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	44.731555
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.487447
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.363476
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.305509
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.337154
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.218431
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.573643
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	44.888640
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	44.069865
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.484496
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	44.241048
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.469793
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.695628
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.723412
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.127193
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.860940
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.448942
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.561835
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.768789
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	44.247835
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	44.320113
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.567377
-guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	44.761113
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.139112
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.118440
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.123844
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.111062
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.119971
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.127854
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.121876
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.124160
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.118138
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.115276
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.128436
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.114785
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.117310
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.146905
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.125777
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.121269
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.118583
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.115054
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.124791
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.153603
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.121247
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.119227
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.147208
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.117248
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.118341
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.129625
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.121043
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.128129
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.152347
-guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.133311
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.283791
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.379856
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.284717
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	345.978451
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	342.996282
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.313562
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.257584
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.372088
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.147878
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.348658
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	341.366353
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.716767
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.313560
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.668703
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	344.497460
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.356353
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.317458
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	345.932279
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.600875
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.285271
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.484400
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.452345
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	345.309081
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.595129
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	344.591501
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.289478
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.395947
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	344.021844
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	345.288136
-guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.025041
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.668504
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.561824
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.610701
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.428872
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.547688
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.550602
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.659117
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.557787
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.640443
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.592117
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.677264
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.611113
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.603326
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.608076
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.385581
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.667615
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.516700
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.572173
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.623860
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.633922
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.625055
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.558086
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.624491
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.684528
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.409951
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.632842
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.572000
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.613950
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.684023
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.609269
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	364.368574
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	370.996228
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	365.715121
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	371.010010
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	373.954611
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	367.594063
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	374.541659
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	371.374890
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	370.512834
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	363.815274
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	363.779048
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	371.722532
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	371.383242
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	365.924884
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	373.783448
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	367.546018
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	372.933238
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	370.679909
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	373.325771
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	364.493540
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	368.916783
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	367.280137
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	364.505651
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	363.950974
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	373.443951
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	369.878231
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	366.475906
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	367.104569
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	365.619327
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	366.782541
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.843904
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	252.023660
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.964687
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.949579
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.009584
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.823834
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.028475
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.811002
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.037783
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.998298
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.070567
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.036283
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.998704
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.866573
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.916028
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.995974
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.086528
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	252.062595
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.036031
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.010580
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.055743
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	251.983341
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.076763
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.997014
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.088605
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.723078
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.043977
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	252.010584
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.961907
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.018458
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.791333
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	256.008839
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.892000
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	254.052900
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	251.774457
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	248.028286
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.647324
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.837528
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.794585
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.621074
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.531514
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.933757
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	252.704943
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.931308
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.714444
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	252.625692
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	251.793405
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.514900
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	252.833275
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	252.755306
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	253.649872
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.953302
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	253.461905
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.861431
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.631095
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	254.412783
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.663691
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.854307
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	253.675666
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.682651
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.858669
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	196.174861
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.095158
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	192.930752
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	193.183036
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	192.710512
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.370637
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	193.747417
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.114062
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.074427
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.872579
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	192.599567
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.695812
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.716771
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.417275
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	192.724880
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.988560
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	196.108522
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.044100
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.371208
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.175940
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	193.286367
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	192.617119
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	193.515378
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.045136
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	193.769468
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.327085
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	192.780108
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	195.297356
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	193.670312
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.588345
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.615815
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.591242
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.565181
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.491871
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.567846
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.630598
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.616742
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.616449
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.613286
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.603651
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.590452
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.590209
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.590485
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.609581
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.569564
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.336639
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.616146
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.611256
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.033788
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.622091
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.623631
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.623648
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.515929
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.609650
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.469060
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.599337
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.503481
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.616393
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.609050
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.606912
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.654137
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.355481
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.525265
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.867492
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.739977
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.554236
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.426309
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.772999
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.701267
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.312785
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.676075
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.967146
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.564369
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.885145
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.764493
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.652823
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.827370
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.471355
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.727103
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	333.115568
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.698330
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.641770
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.799112
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.962893
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.568230
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.981948
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.893716
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.728725
-list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.540290
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	426.392788
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	426.825684
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	426.723807
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.717871
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	427.406348
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	427.871961
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.799359
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	426.093239
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.481538
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.618727
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	426.830461
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.361229
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	426.853489
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.380822
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.904634
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.939202
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.768486
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.801282
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.324800
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.322187
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	426.431933
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.814820
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.989795
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.200067
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.550046
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.838605
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.933631
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	426.073169
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	427.678258
-list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	426.588389
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.258250
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.362393
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.784454
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.619530
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.818147
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.668160
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	307.033439
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.931184
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.403813
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.700159
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.361455
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	307.104730
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.201277
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	307.066350
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.127202
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.934003
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.590101
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.313335
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.715835
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.710291
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.975599
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	307.000266
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.480599
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.562557
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.702825
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	305.518775
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.808355
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.933459
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.958447
-list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.773078
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.922342
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.628683
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.095990
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.532240
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.292050
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.066848
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	298.406547
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.881949
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.436196
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.155256
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	298.156743
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.483491
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.679645
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.736146
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.105042
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	298.062141
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.368121
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.574284
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.834672
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.007920
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.567443
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	298.221219
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.048887
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.586299
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.438767
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.444981
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	298.091970
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.003143
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.245784
-list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.893884
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	253.384038
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.639987
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.934338
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.558336
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.581353
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.662171
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.803952
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.562492
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.623665
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.611996
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	253.298461
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.937245
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.653131
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	253.165274
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.544501
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.557543
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.583251
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.599319
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	251.506466
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.555642
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.951460
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.515617
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.583482
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.688768
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	253.482443
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.594251
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.645197
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.455118
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.611069
-list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.633072
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.981750
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.730008
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.666596
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.724823
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.520708
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.557974
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.408297
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.574496
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	220.010349
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	220.154870
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.719112
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	220.428158
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	220.175902
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.273525
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.941661
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.859865
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.701721
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	220.404101
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	220.095807
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.859936
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.560227
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.060492
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.560159
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.822662
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.582905
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.605909
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.731194
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	223.145974
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	223.143838
-list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.474032
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	127.916859
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	128.653239
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	129.490260
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	129.940493
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	130.037147
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	130.599855
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	130.431974
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	130.666482
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	130.853181
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	131.124055
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	131.569215
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	133.332759
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	134.601375
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	134.773415
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	134.878871
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	135.372496
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	135.830657
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	136.788217
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.037925
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.666894
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.827711
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.871261
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.866187
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.884393
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.840825
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.789526
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.800210
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.873263
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.762009
-queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.765673
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	168.042907
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	171.073223
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	173.702829
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	174.152516
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	174.713033
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	175.467407
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	176.039837
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	177.155737
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	177.511435
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	180.316785
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	183.901114
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	186.331294
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	189.097621
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	191.166007
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	192.931367
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	194.301825
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	194.804093
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	195.392774
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	196.414279
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	197.363876
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	198.302435
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	200.413489
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	200.513776
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	201.327094
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	202.074402
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	203.371235
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	204.137206
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	205.308042
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	206.969541
-queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	207.980519
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	151.080078
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	152.095177
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	152.753516
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	154.227988
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	155.354845
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	155.690941
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	156.145753
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	156.301861
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	156.472575
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	157.302127
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	156.993688
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	156.876008
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	157.455679
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	157.397550
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	157.428033
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	157.867725
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	157.935763
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	158.305254
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	158.465752
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	158.255619
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	158.710371
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	159.047669
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	159.131778
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	159.289085
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	159.353601
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	159.994672
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	161.293814
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	162.157441
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	162.741917
-queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	163.815663
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	134.423548
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	134.856348
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	135.221179
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	135.883937
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	136.564662
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.294990
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.991907
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.942073
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.733054
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.515052
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.390863
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.602766
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.464514
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.345129
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.615495
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.557424
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.081739
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.497366
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.438025
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.547608
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.393463
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.498190
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.326251
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.659152
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.488110
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.356228
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.713486
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.416566
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.530963
-queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.280589
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	124.621103
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	126.158800
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	127.965201
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	129.227028
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	129.715107
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	130.356732
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	130.710134
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	131.015362
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	131.216678
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	131.457508
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	131.658914
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	132.236481
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	133.072611
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	133.845115
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	134.307284
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	134.495763
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	134.248794
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	134.986866
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	135.543068
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	135.698553
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	136.519738
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	137.040063
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	137.444415
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	137.852984
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	137.590740
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	137.868030
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	137.855135
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	137.947969
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	137.824033
-queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	137.456456
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	126.053927
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	128.041302
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	129.742090
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	130.137573
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	130.298566
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	131.049727
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	131.203129
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	132.051146
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	133.167779
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	134.115862
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	134.333096
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	134.534743
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	134.774893
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	135.048092
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	135.551768
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	136.280086
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.198898
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.804142
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.874270
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.933675
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.918683
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.930316
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	138.016369
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	138.074723
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.972047
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.913042
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	138.002900
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.726695
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	138.064125
-queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.942328
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	124626297.530864
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122594090.707317
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122238718.280488
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122161708.743902
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122407206.256098
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122392290.036585
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122130365.548780
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122260446.865854
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122352392.682927
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122612864.268293
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122237801.756098
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122141632.646341
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122257781.012195
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122998982.731707
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122580799.487805
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122327429.390244
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122311495.829268
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122452832.280488
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122523376.707317
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122570889.804878
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122693860.207317
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122259236.756098
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122466359.573171
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122497862.817073
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122514925.182927
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122700443.024390
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122199164.951220
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122688076.024390
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122544472.731707
-hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122652727.048780
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	124289955.950617
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119419492.559524
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	120305347.464286
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	122215664.390244
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119387698.607143
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119583134.500000
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119421926.404762
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	122342154.963415
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	123904455.024691
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	122161889.414634
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119325481.678571
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119126748.023810
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119249702.154762
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	121888459.421687
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119129506.976190
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119357844.678571
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119111544.666667
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119153821.178571
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119295035.083333
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119193326.214286
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119200724.559524
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119168875.773810
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119075564.309524
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119285211.583333
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119525143.178571
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	121968984.426829
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	121333975.265060
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119124769.916667
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	118952517.423529
-hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	120730048.831325
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	125997039.812500
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	122826053.890244
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	121827186.108434
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	126491958.512500
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	122565343.585366
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	123481025.444444
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	124925998.234568
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	122062285.914634
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	120456310.428571
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	122330290.768293
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	124635033.444444
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	121908966.024096
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	125785409.375000
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	123329008.585366
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	123050354.743902
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	121715915.686747
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	120872251.771084
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	121868648.253012
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	125471010.637500
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	122414876.768293
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	123219596.426829
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	122511712.743902
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	125382068.200000
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	124492664.629630
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	125156844.150000
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	122211733.646341
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	123605347.530864
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	121740431.240964
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	123004421.317073
-hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	123036448.756098
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	127266542.139241
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122517130.512195
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122585641.000000
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122553594.256098
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122365701.439024
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122634735.024390
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122444781.146341
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122489515.243902
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122836220.853659
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122766922.231707
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122849480.256098
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122578585.914634
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122808986.402439
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122905670.463415
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122774859.292683
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122663533.317073
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122968067.463415
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122585089.512195
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122683482.804878
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122470502.195122
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122956117.036585
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122672779.060976
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122506029.280488
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122532368.024390
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122481750.609756
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122303622.548780
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122340255.512195
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122506352.000000
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122716566.207317
-hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122522545.987805
-hash_map	stamp	N3emr8stamp_itE		1	10000	124198356.543210
-hash_map	stamp	N3emr8stamp_itE		1	10000	121951348.168675
-hash_map	stamp	N3emr8stamp_itE		1	10000	122012890.780488
-hash_map	stamp	N3emr8stamp_itE		1	10000	118799804.764706
-hash_map	stamp	N3emr8stamp_itE		1	10000	118747335.070588
-hash_map	stamp	N3emr8stamp_itE		1	10000	122227064.902439
-hash_map	stamp	N3emr8stamp_itE		1	10000	121959796.621951
-hash_map	stamp	N3emr8stamp_itE		1	10000	122034729.695122
-hash_map	stamp	N3emr8stamp_itE		1	10000	118997152.882353
-hash_map	stamp	N3emr8stamp_itE		1	10000	122078367.341463
-hash_map	stamp	N3emr8stamp_itE		1	10000	118863666.576471
-hash_map	stamp	N3emr8stamp_itE		1	10000	121186941.650602
-hash_map	stamp	N3emr8stamp_itE		1	10000	121829970.542169
-hash_map	stamp	N3emr8stamp_itE		1	10000	121075005.734940
-hash_map	stamp	N3emr8stamp_itE		1	10000	121865849.987952
-hash_map	stamp	N3emr8stamp_itE		1	10000	118718137.247059
-hash_map	stamp	N3emr8stamp_itE		1	10000	121036447.795181
-hash_map	stamp	N3emr8stamp_itE		1	10000	121689138.240964
-hash_map	stamp	N3emr8stamp_itE		1	10000	120879732.614458
-hash_map	stamp	N3emr8stamp_itE		1	10000	121114779.204819
-hash_map	stamp	N3emr8stamp_itE		1	10000	121964825.890244
-hash_map	stamp	N3emr8stamp_itE		1	10000	121901764.807229
-hash_map	stamp	N3emr8stamp_itE		1	10000	121400729.168675
-hash_map	stamp	N3emr8stamp_itE		1	10000	121201935.253012
-hash_map	stamp	N3emr8stamp_itE		1	10000	121499267.240964
-hash_map	stamp	N3emr8stamp_itE		1	10000	122069030.695122
-hash_map	stamp	N3emr8stamp_itE		1	10000	121291886.457831
-hash_map	stamp	N3emr8stamp_itE		1	10000	121145399.734940
-hash_map	stamp	N3emr8stamp_itE		1	10000	123523122.222222
-hash_map	stamp	N3emr8stamp_itE		1	10000	123684017.641975
+trial	benchmark	reclaimer	reclaimer-type	params	threads	runtime	ns/op
+1	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.617851
+2	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.62312
+3	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.622992
+4	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.619703
+5	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.623206
+6	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.616612
+7	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.619195
+8	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.616421
+9	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.618781
+10	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.622395
+11	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.618596
+12	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.614128
+13	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.618717
+14	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.615312
+15	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.618289
+16	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.618593
+17	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.638541
+18	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.613954
+19	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.623479
+20	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.611646
+21	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.621391
+22	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.620118
+23	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.619992
+24	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.662375
+25	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.677661
+26	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.680619
+27	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.678019
+28	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.678596
+29	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.677463
+30	guard_ptr	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	27.70224
+1	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.062762
+2	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.074542
+3	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.071292
+4	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.062723
+5	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.072613
+6	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.061832
+7	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.074083
+8	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.053402
+9	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.064817
+10	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.06998
+11	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.055211
+12	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.066956
+13	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.075581
+14	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.070861
+15	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.07205
+16	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.072858
+17	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.066193
+18	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.067377
+19	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.063316
+20	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.069367
+21	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.076784
+22	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.04967
+23	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.069714
+24	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.050514
+25	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.07084
+26	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.073193
+27	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.080156
+28	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.071673
+29	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.070587
+30	guard_ptr	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	35.062123
+1	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.131122
+2	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.122093
+3	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.071728
+4	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.136424
+5	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.109489
+6	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.119052
+7	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.099753
+8	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.107408
+9	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.096148
+10	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.100268
+11	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.098769
+12	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.094127
+13	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.114777
+14	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.136694
+15	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.096086
+16	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.090858
+17	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.095598
+18	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.112569
+19	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.095877
+20	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.108865
+21	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.122638
+22	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.099983
+23	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.091919
+24	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.096379
+25	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.09495
+26	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.134325
+27	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.123621
+28	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.083676
+29	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.10043
+30	guard_ptr	EBR	N3emr11epoch_basedILm100EEE		1	10000	41.109387
+1	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.868824
+2	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.37886
+3	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.843344
+4	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.577839
+5	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.771732
+6	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	44.762153
+7	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.310891
+8	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	44.731555
+9	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.487447
+10	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.363476
+11	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.305509
+12	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.337154
+13	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.218431
+14	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.573643
+15	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	44.88864
+16	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	44.069865
+17	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.484496
+18	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	44.241048
+19	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.469793
+20	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.695628
+21	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.723412
+22	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.127193
+23	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.86094
+24	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.448942
+25	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.561835
+26	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.768789
+27	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	44.247835
+28	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	44.320113
+29	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	43.567377
+30	guard_ptr	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	44.761113
+1	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.139112
+2	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.11844
+3	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.123844
+4	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.111062
+5	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.119971
+6	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.127854
+7	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.121876
+8	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.12416
+9	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.118138
+10	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.115276
+11	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.128436
+12	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.114785
+13	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.11731
+14	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.146905
+15	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.125777
+16	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.121269
+17	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.118583
+18	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.115054
+19	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.124791
+20	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.153603
+21	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.121247
+22	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.119227
+23	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.147208
+24	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.117248
+25	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.118341
+26	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.129625
+27	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.121043
+28	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.128129
+29	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.152347
+30	guard_ptr	QSBR	N3emr21quiescent_state_basedE		1	10000	34.133311
+1	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.283791
+2	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.379856
+3	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.284717
+4	guard_ptr	stamp	N3emr8stamp_itE		1	10000	345.978451
+5	guard_ptr	stamp	N3emr8stamp_itE		1	10000	342.996282
+6	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.313562
+7	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.257584
+8	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.372088
+9	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.147878
+10	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.348658
+11	guard_ptr	stamp	N3emr8stamp_itE		1	10000	341.366353
+12	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.716767
+13	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.31356
+14	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.668703
+15	guard_ptr	stamp	N3emr8stamp_itE		1	10000	344.49746
+16	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.356353
+17	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.317458
+18	guard_ptr	stamp	N3emr8stamp_itE		1	10000	345.932279
+19	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.600875
+20	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.285271
+21	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.4844
+22	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.452345
+23	guard_ptr	stamp	N3emr8stamp_itE		1	10000	345.309081
+24	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.595129
+25	guard_ptr	stamp	N3emr8stamp_itE		1	10000	344.591501
+26	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.289478
+27	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.395947
+28	guard_ptr	stamp	N3emr8stamp_itE		1	10000	344.021844
+29	guard_ptr	stamp	N3emr8stamp_itE		1	10000	345.288136
+30	guard_ptr	stamp	N3emr8stamp_itE		1	10000	346.025041
+1	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.668504
+2	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.561824
+3	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.610701
+4	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.428872
+5	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.547688
+6	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.550602
+7	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.659117
+8	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.557787
+9	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.640443
+10	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.592117
+11	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.677264
+12	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.611113
+13	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.603326
+14	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.608076
+15	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.385581
+16	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.667615
+17	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.5167
+18	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.572173
+19	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.62386
+20	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.633922
+21	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.625055
+22	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.558086
+23	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.624491
+24	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.684528
+25	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.409951
+26	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.632842
+27	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.572
+28	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.61395
+29	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.684023
+30	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 0.000000	1	10000	279.609269
+1	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	364.368574
+2	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	370.996228
+3	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	365.715121
+4	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	371.01001
+5	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	373.954611
+6	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	367.594063
+7	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	374.541659
+8	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	371.37489
+9	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	370.512834
+10	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	363.815274
+11	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	363.779048
+12	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	371.722532
+13	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	371.383242
+14	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	365.924884
+15	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	373.783448
+16	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	367.546018
+17	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	372.933238
+18	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	370.679909
+19	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	373.325771
+20	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	364.49354
+21	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	368.916783
+22	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	367.280137
+23	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	364.505651
+24	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	363.950974
+25	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	373.443951
+26	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	369.878231
+27	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	366.475906
+28	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	367.104569
+29	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	365.619327
+30	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 0.000000	1	10000	366.782541
+1	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.843904
+2	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	252.02366
+3	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.964687
+4	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.949579
+5	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.009584
+6	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.823834
+7	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.028475
+8	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.811002
+9	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.037783
+10	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.998298
+11	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.070567
+12	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.036283
+13	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.998704
+14	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.866573
+15	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.916028
+16	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.995974
+17	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.086528
+18	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	252.062595
+19	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.036031
+20	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.01058
+21	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.055743
+22	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	251.983341
+23	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.076763
+24	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.997014
+25	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.088605
+26	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.723078
+27	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.043977
+28	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	252.010584
+29	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	242.961907
+30	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	243.018458
+1	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.791333
+2	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	256.008839
+3	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.892
+4	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	254.0529
+5	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	251.774457
+6	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	248.028286
+7	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.647324
+8	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.837528
+9	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.794585
+10	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.621074
+11	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.531514
+12	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.933757
+13	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	252.704943
+14	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.931308
+15	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.714444
+16	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	252.625692
+17	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	251.793405
+18	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.5149
+19	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	252.833275
+20	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	252.755306
+21	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	253.649872
+22	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.953302
+23	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	253.461905
+24	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.861431
+25	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.631095
+26	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	254.412783
+27	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.663691
+28	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.854307
+29	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	253.675666
+30	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 0.000000	1	10000	255.682651
+1	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.858669
+2	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	196.174861
+3	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.095158
+4	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	192.930752
+5	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	193.183036
+6	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	192.710512
+7	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.370637
+8	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	193.747417
+9	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.114062
+10	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.074427
+11	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.872579
+12	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	192.599567
+13	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.695812
+14	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.716771
+15	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.417275
+16	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	192.72488
+17	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.98856
+18	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	196.108522
+19	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.0441
+20	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.371208
+21	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.17594
+22	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	193.286367
+23	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	192.617119
+24	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	193.515378
+25	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.045136
+26	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	193.769468
+27	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	194.327085
+28	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	192.780108
+29	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	195.297356
+30	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 0.000000	1	10000	193.670312
+1	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.588345
+2	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.615815
+3	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.591242
+4	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.565181
+5	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.491871
+6	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.567846
+7	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.630598
+8	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.616742
+9	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.616449
+10	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.613286
+11	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.603651
+12	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.590452
+13	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.590209
+14	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.590485
+15	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.609581
+16	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.569564
+17	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.336639
+18	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.616146
+19	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.611256
+20	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.033788
+21	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.622091
+22	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.623631
+23	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.623648
+24	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.515929
+25	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.60965
+26	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.46906
+27	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.599337
+28	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.503481
+29	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.616393
+30	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 0.000000	1	10000	147.60905
+1	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.606912
+2	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.654137
+3	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.355481
+4	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.525265
+5	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.867492
+6	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.739977
+7	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.554236
+8	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.426309
+9	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.772999
+10	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.701267
+11	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.312785
+12	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.676075
+13	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.967146
+14	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.564369
+15	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.885145
+16	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.764493
+17	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.652823
+18	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.82737
+19	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.471355
+20	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.727103
+21	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	333.115568
+22	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.69833
+23	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.64177
+24	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.799112
+25	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.962893
+26	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.56823
+27	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.981948
+28	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.893716
+29	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.728725
+30	list	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10; modify-fraction: 1.000000	1	10000	332.54029
+1	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	426.392788
+2	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	426.825684
+3	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	426.723807
+4	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.717871
+5	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	427.406348
+6	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	427.871961
+7	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.799359
+8	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	426.093239
+9	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.481538
+10	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.618727
+11	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	426.830461
+12	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.361229
+13	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	426.853489
+14	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.380822
+15	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.904634
+16	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.939202
+17	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.768486
+18	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.801282
+19	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.3248
+20	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.322187
+21	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	426.431933
+22	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.81482
+23	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.989795
+24	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.200067
+25	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.550046
+26	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.838605
+27	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	425.933631
+28	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	426.073169
+29	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	427.678258
+30	list	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10; modify-fraction: 1.000000	1	10000	426.588389
+1	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.25825
+2	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.362393
+3	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.784454
+4	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.61953
+5	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.818147
+6	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.66816
+7	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	307.033439
+8	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.931184
+9	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.403813
+10	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.700159
+11	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.361455
+12	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	307.10473
+13	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.201277
+14	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	307.06635
+15	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.127202
+16	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.934003
+17	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.590101
+18	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.313335
+19	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.715835
+20	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.710291
+21	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.975599
+22	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	307.000266
+23	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.480599
+24	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.562557
+25	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.702825
+26	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	305.518775
+27	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.808355
+28	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.933459
+29	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.958447
+30	list	EBR	N3emr11epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	306.773078
+1	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.922342
+2	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.628683
+3	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.09599
+4	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.53224
+5	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.29205
+6	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.066848
+7	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	298.406547
+8	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.881949
+9	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.436196
+10	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.155256
+11	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	298.156743
+12	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.483491
+13	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.679645
+14	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.736146
+15	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.105042
+16	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	298.062141
+17	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.368121
+18	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.574284
+19	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.834672
+20	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.00792
+21	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.567443
+22	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	298.221219
+23	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.048887
+24	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.586299
+25	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.438767
+26	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.444981
+27	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	298.09197
+28	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.003143
+29	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.245784
+30	list	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10; modify-fraction: 1.000000	1	10000	297.893884
+1	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	253.384038
+2	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.639987
+3	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.934338
+4	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.558336
+5	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.581353
+6	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.662171
+7	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.803952
+8	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.562492
+9	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.623665
+10	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.611996
+11	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	253.298461
+12	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.937245
+13	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.653131
+14	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	253.165274
+15	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.544501
+16	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.557543
+17	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.583251
+18	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.599319
+19	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	251.506466
+20	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.555642
+21	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.95146
+22	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.515617
+23	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.583482
+24	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.688768
+25	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	253.482443
+26	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.594251
+27	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.645197
+28	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.455118
+29	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.611069
+30	list	QSBR	N3emr21quiescent_state_basedE	elements: 10; modify-fraction: 1.000000	1	10000	252.633072
+1	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.98175
+2	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.730008
+3	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.666596
+4	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.724823
+5	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.520708
+6	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.557974
+7	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.408297
+8	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.574496
+9	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	220.010349
+10	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	220.15487
+11	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.719112
+12	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	220.428158
+13	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	220.175902
+14	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.273525
+15	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.941661
+16	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.859865
+17	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.701721
+18	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	220.404101
+19	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	220.095807
+20	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.859936
+21	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.560227
+22	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.060492
+23	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.560159
+24	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.822662
+25	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.582905
+26	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.605909
+27	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.731194
+28	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	223.145974
+29	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	223.143838
+30	list	stamp	N3emr8stamp_itE	elements: 10; modify-fraction: 1.000000	1	10000	219.474032
+1	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	127.916859
+2	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	128.653239
+3	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	129.49026
+4	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	129.940493
+5	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	130.037147
+6	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	130.599855
+7	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	130.431974
+8	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	130.666482
+9	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	130.853181
+10	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	131.124055
+11	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	131.569215
+12	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	133.332759
+13	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	134.601375
+14	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	134.773415
+15	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	134.878871
+16	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	135.372496
+17	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	135.830657
+18	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	136.788217
+19	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.037925
+20	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.666894
+21	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.827711
+22	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.871261
+23	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.866187
+24	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.884393
+25	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.840825
+26	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.789526
+27	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.80021
+28	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.873263
+29	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.762009
+30	queue	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE	elements: 10	1	10000	137.765673
+1	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	168.042907
+2	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	171.073223
+3	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	173.702829
+4	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	174.152516
+5	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	174.713033
+6	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	175.467407
+7	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	176.039837
+8	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	177.155737
+9	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	177.511435
+10	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	180.316785
+11	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	183.901114
+12	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	186.331294
+13	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	189.097621
+14	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	191.166007
+15	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	192.931367
+16	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	194.301825
+17	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	194.804093
+18	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	195.392774
+19	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	196.414279
+20	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	197.363876
+21	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	198.302435
+22	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	200.413489
+23	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	200.513776
+24	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	201.327094
+25	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	202.074402
+26	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	203.371235
+27	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	204.137206
+28	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	205.308042
+29	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	206.969541
+30	queue	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE	elements: 10	1	10000	207.980519
+1	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	151.080078
+2	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	152.095177
+3	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	152.753516
+4	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	154.227988
+5	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	155.354845
+6	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	155.690941
+7	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	156.145753
+8	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	156.301861
+9	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	156.472575
+10	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	157.302127
+11	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	156.993688
+12	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	156.876008
+13	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	157.455679
+14	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	157.39755
+15	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	157.428033
+16	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	157.867725
+17	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	157.935763
+18	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	158.305254
+19	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	158.465752
+20	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	158.255619
+21	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	158.710371
+22	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	159.047669
+23	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	159.131778
+24	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	159.289085
+25	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	159.353601
+26	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	159.994672
+27	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	161.293814
+28	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	162.157441
+29	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	162.741917
+30	queue	EBR	N3emr11epoch_basedILm100EEE	elements: 10	1	10000	163.815663
+1	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	134.423548
+2	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	134.856348
+3	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	135.221179
+4	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	135.883937
+5	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	136.564662
+6	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.29499
+7	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.991907
+8	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.942073
+9	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.733054
+10	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.515052
+11	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.390863
+12	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.602766
+13	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.464514
+14	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.345129
+15	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.615495
+16	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.557424
+17	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.081739
+18	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.497366
+19	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.438025
+20	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.547608
+21	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.393463
+22	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.49819
+23	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.326251
+24	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.659152
+25	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.48811
+26	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.356228
+27	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.713486
+28	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.416566
+29	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.530963
+30	queue	NEBR	N3emr15new_epoch_basedILm100EEE	elements: 10	1	10000	137.280589
+1	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	124.621103
+2	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	126.1588
+3	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	127.965201
+4	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	129.227028
+5	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	129.715107
+6	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	130.356732
+7	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	130.710134
+8	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	131.015362
+9	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	131.216678
+10	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	131.457508
+11	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	131.658914
+12	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	132.236481
+13	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	133.072611
+14	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	133.845115
+15	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	134.307284
+16	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	134.495763
+17	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	134.248794
+18	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	134.986866
+19	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	135.543068
+20	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	135.698553
+21	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	136.519738
+22	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	137.040063
+23	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	137.444415
+24	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	137.852984
+25	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	137.59074
+26	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	137.86803
+27	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	137.855135
+28	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	137.947969
+29	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	137.824033
+30	queue	QSBR	N3emr21quiescent_state_basedE	elements: 10	1	10000	137.456456
+1	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	126.053927
+2	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	128.041302
+3	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	129.74209
+4	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	130.137573
+5	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	130.298566
+6	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	131.049727
+7	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	131.203129
+8	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	132.051146
+9	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	133.167779
+10	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	134.115862
+11	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	134.333096
+12	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	134.534743
+13	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	134.774893
+14	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	135.048092
+15	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	135.551768
+16	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	136.280086
+17	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.198898
+18	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.804142
+19	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.87427
+20	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.933675
+21	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.918683
+22	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.930316
+23	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	138.016369
+24	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	138.074723
+25	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.972047
+26	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.913042
+27	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	138.0029
+28	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.726695
+29	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	138.064125
+30	queue	stamp	N3emr8stamp_itE	elements: 10	1	10000	137.942328
+1	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	124626297.530864
+2	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122594090.707317
+3	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122238718.280488
+4	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122161708.743902
+5	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122407206.256098
+6	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122392290.036585
+7	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122130365.54878
+8	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122260446.865854
+9	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122352392.682927
+10	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122612864.268293
+11	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122237801.756098
+12	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122141632.646341
+13	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122257781.012195
+14	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122998982.731707
+15	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122580799.487805
+16	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122327429.390244
+17	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122311495.829268
+18	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122452832.280488
+19	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122523376.707317
+20	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122570889.804878
+21	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122693860.207317
+22	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122259236.756098
+23	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122466359.573171
+24	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122497862.817073
+25	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122514925.182927
+26	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122700443.02439
+27	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122199164.95122
+28	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122688076.02439
+29	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122544472.731707
+30	hash_map	LFRC	N3emr19lock_free_ref_countILb0ELm0EEE		1	10000	122652727.04878
+1	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+2	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+3	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+4	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+5	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+6	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+7	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+8	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+9	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+10	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+11	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+12	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+13	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+14	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+15	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+16	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+17	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+18	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+19	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+20	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+21	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+22	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+23	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+24	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+25	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+26	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+27	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+28	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+29	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+30	hash_map	static-HPBR	N3emr14hazard_pointerINS_29generic_hazard_pointer_policyILm2ELm2ELm100ENS_30static_hp_thread_control_blockEEEEE		1	10000	inf
+1	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	124289955.950617
+2	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119419492.559524
+3	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	120305347.464286
+4	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	122215664.390244
+5	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119387698.607143
+6	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119583134.5
+7	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119421926.404762
+8	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	122342154.963415
+9	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	123904455.024691
+10	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	122161889.414634
+11	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119325481.678571
+12	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119126748.02381
+13	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119249702.154762
+14	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	121888459.421687
+15	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119129506.97619
+16	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119357844.678571
+17	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119111544.666667
+18	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119153821.178571
+19	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119295035.083333
+20	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119193326.214286
+21	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119200724.559524
+22	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119168875.77381
+23	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119075564.309524
+24	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119285211.583333
+25	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119525143.178571
+26	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	121968984.426829
+27	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	121333975.26506
+28	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	119124769.916667
+29	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	118952517.423529
+30	hash_map	EBR	N3emr11epoch_basedILm100EEE		1	10000	120730048.831325
+1	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	125997039.8125
+2	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	122826053.890244
+3	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	121827186.108434
+4	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	126491958.5125
+5	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	122565343.585366
+6	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	123481025.444444
+7	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	124925998.234568
+8	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	122062285.914634
+9	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	120456310.428571
+10	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	122330290.768293
+11	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	124635033.444444
+12	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	121908966.024096
+13	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	125785409.375
+14	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	123329008.585366
+15	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	123050354.743902
+16	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	121715915.686747
+17	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	120872251.771084
+18	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	121868648.253012
+19	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	125471010.6375
+20	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	122414876.768293
+21	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	123219596.426829
+22	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	122511712.743902
+23	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	125382068.2
+24	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	124492664.62963
+25	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	125156844.15
+26	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	122211733.646341
+27	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	123605347.530864
+28	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	121740431.240964
+29	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	123004421.317073
+30	hash_map	NEBR	N3emr15new_epoch_basedILm100EEE		1	10000	123036448.756098
+1	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	127266542.139241
+2	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122517130.512195
+3	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122585641
+4	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122553594.256098
+5	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122365701.439024
+6	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122634735.02439
+7	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122444781.146341
+8	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122489515.243902
+9	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122836220.853659
+10	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122766922.231707
+11	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122849480.256098
+12	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122578585.914634
+13	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122808986.402439
+14	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122905670.463415
+15	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122774859.292683
+16	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122663533.317073
+17	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122968067.463415
+18	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122585089.512195
+19	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122683482.804878
+20	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122470502.195122
+21	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122956117.036585
+22	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122672779.060976
+23	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122506029.280488
+24	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122532368.02439
+25	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122481750.609756
+26	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122303622.54878
+27	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122340255.512195
+28	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122506352
+29	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122716566.207317
+30	hash_map	QSBR	N3emr21quiescent_state_basedE		1	10000	122522545.987805
+1	hash_map	stamp	N3emr8stamp_itE		1	10000	124198356.54321
+2	hash_map	stamp	N3emr8stamp_itE		1	10000	121951348.168675
+3	hash_map	stamp	N3emr8stamp_itE		1	10000	122012890.780488
+4	hash_map	stamp	N3emr8stamp_itE		1	10000	118799804.764706
+5	hash_map	stamp	N3emr8stamp_itE		1	10000	118747335.070588
+6	hash_map	stamp	N3emr8stamp_itE		1	10000	122227064.902439
+7	hash_map	stamp	N3emr8stamp_itE		1	10000	121959796.621951
+8	hash_map	stamp	N3emr8stamp_itE		1	10000	122034729.695122
+9	hash_map	stamp	N3emr8stamp_itE		1	10000	118997152.882353
+10	hash_map	stamp	N3emr8stamp_itE		1	10000	122078367.341463
+11	hash_map	stamp	N3emr8stamp_itE		1	10000	118863666.576471
+12	hash_map	stamp	N3emr8stamp_itE		1	10000	121186941.650602
+13	hash_map	stamp	N3emr8stamp_itE		1	10000	121829970.542169
+14	hash_map	stamp	N3emr8stamp_itE		1	10000	121075005.73494
+15	hash_map	stamp	N3emr8stamp_itE		1	10000	121865849.987952
+16	hash_map	stamp	N3emr8stamp_itE		1	10000	118718137.247059
+17	hash_map	stamp	N3emr8stamp_itE		1	10000	121036447.795181
+18	hash_map	stamp	N3emr8stamp_itE		1	10000	121689138.240964
+19	hash_map	stamp	N3emr8stamp_itE		1	10000	120879732.614458
+20	hash_map	stamp	N3emr8stamp_itE		1	10000	121114779.204819
+21	hash_map	stamp	N3emr8stamp_itE		1	10000	121964825.890244
+22	hash_map	stamp	N3emr8stamp_itE		1	10000	121901764.807229
+23	hash_map	stamp	N3emr8stamp_itE		1	10000	121400729.168675
+24	hash_map	stamp	N3emr8stamp_itE		1	10000	121201935.253012
+25	hash_map	stamp	N3emr8stamp_itE		1	10000	121499267.240964
+26	hash_map	stamp	N3emr8stamp_itE		1	10000	122069030.695122
+27	hash_map	stamp	N3emr8stamp_itE		1	10000	121291886.457831
+28	hash_map	stamp	N3emr8stamp_itE		1	10000	121145399.73494
+29	hash_map	stamp	N3emr8stamp_itE		1	10000	123523122.222222
+30	hash_map	stamp	N3emr8stamp_itE		1	10000	123684017.641975
