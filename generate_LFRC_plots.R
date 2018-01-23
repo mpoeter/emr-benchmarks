@@ -41,13 +41,13 @@ plot_threads_all <- function(benchmark, params = "", divisor=1000, yaxis=express
 }
 
 plot <- plot_threads_all("queue")
-ggsave("plots/LFRC-queue.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/LFRC-queue.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
 
 plot <- plot_threads_all("list", param="elements: 10; modify-fraction: 0.199219")
-ggsave("plots/LFRC-list-20.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/LFRC-list-20.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
 
 plot <- plot_threads_all("list", param="elements: 10; modify-fraction: 0.799805")
-ggsave("plots/LFRC-list-80.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/LFRC-list-80.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
 
 plot <- plot_threads_all("hash_map", divisor=1000*1000, yaxis="mean ms/op")
-ggsave("plots/LFRC-hash_map.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/LFRC-hash_map.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)

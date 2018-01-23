@@ -137,19 +137,19 @@ plot_all_hash_map_runtimes <- function()
 create_plots <- function()
 {
   plot <- plot_all("hash_map")
-  ggsave("plots/unreclaimed-objects-hash_map.pdf", plot, width=240, height=300, units="mm")
+  ggsave("plots/unreclaimed-objects-hash_map.pdf", plot, width=240, height=300, units="mm", device=cairo_pdf)
 
   plot <- plot_all("queue")
-  ggsave("plots/unreclaimed-objects-queue.pdf", plot, width=240, height=300, units="mm")
+  ggsave("plots/unreclaimed-objects-queue.pdf", plot, width=240, height=300, units="mm", device=cairo_pdf)
 
   plot <- plot_all("list", params="elements: 10; modify-fraction: 0.199219")
-  ggsave("plots/unreclaimed-objects-list-20.pdf", plot, width=240, height=300, units="mm")
+  ggsave("plots/unreclaimed-objects-list-20.pdf", plot, width=240, height=300, units="mm", device=cairo_pdf)
 
   plot <- plot_all("list", params="elements: 10; modify-fraction: 0.799805")
-  ggsave("plots/unreclaimed-objects-list-80.pdf", plot, width=240, height=300, units="mm")
+  ggsave("plots/unreclaimed-objects-list-80.pdf", plot, width=240, height=300, units="mm", device=cairo_pdf)
 
   plot <- plot_all_hash_map_runtimes()
-  ggsave("plots/unreclaimed-objects-hash_map-runtimes.pdf", plot, width=240, height=120, units="mm")
+  ggsave("plots/unreclaimed-objects-hash_map-runtimes.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
 }
 
 create_plots()

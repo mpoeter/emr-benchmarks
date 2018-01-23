@@ -34,4 +34,4 @@ plot_benchmarks_all <- function(divisor=1000, yaxis=expression(paste("mean ", mu
 }
 
 plot <- plot_benchmarks_all()
-ggsave("plots/base_costs.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/base_costs.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)

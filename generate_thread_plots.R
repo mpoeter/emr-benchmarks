@@ -33,22 +33,22 @@ plot_threads_all <- function(benchmark, params = "", divisor=1000, yaxis=express
 }
 
 plot <- plot_threads_all("queue")
-ggsave("plots/threads-queue.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/threads-queue.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
 
 plot <- plot_threads_all("list", param="elements: 10; modify-fraction: 0.199219")
-ggsave("plots/threads-list-20.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/threads-list-20.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
 
 plot <- plot_threads_all("list", param="elements: 10; modify-fraction: 0.199219", exclude=c("LFRC-padded","LFRC-padded-20"))
-ggsave("plots/threads-list-20-no-LFRC.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/threads-list-20-no-LFRC.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
 
 plot <- plot_threads_all("list", param="elements: 10; modify-fraction: 0.799805")
-ggsave("plots/threads-list-80.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/threads-list-80.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
 
 plot <- plot_threads_all("list", param="elements: 10; modify-fraction: 0.799805", exclude=c("LFRC-padded","LFRC-padded-20"))
-ggsave("plots/threads-list-80-no-LFRC.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/threads-list-80-no-LFRC.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
 
 plot <- plot_threads_all("hash_map", divisor=1000*1000, yaxis="mean ms/op")
-ggsave("plots/threads-hash_map.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/threads-hash_map.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
 
 plot <- plot_threads_all("hash_map", divisor=1000*1000, yaxis="mean ms/op", exclude=c("QSBR"))
-ggsave("plots/threads-hash_map-no-QSBR.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/threads-hash_map-no-QSBR.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)

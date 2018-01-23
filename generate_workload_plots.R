@@ -41,19 +41,19 @@ plot_workloads_all <- function(threads, elems, divisor=1000, yaxis=expression(pa
 }
 
 plot <- plot_workloads_all(1, 1)
-ggsave("plots/workloads-1-thread-1-elem.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/workloads-1-thread-1-elem.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
 
 plot <- plot_workloads_all(32, 1)
-ggsave("plots/workloads-32-thread-1-elem.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/workloads-32-thread-1-elem.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
 
 plot <- plot_workloads_all(32, 1, exclude=c("LFRC-padded-20"))
-ggsave("plots/workloads-32-thread-1-elem-no-LFRC.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/workloads-32-thread-1-elem-no-LFRC.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
 
 plot <- plot_workloads_all(1, 25)
-ggsave("plots/workloads-1-thread-25-elem.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/workloads-1-thread-25-elem.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
 
 plot <- plot_workloads_all(32, 25)
-ggsave("plots/workloads-32-thread-25-elem.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/workloads-32-thread-25-elem.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
 
 plot <- plot_workloads_all(32, 25, exclude=c("LFRC-padded-20"))
-ggsave("plots/workloads-32-thread-25-elem-no-LFRC.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/workloads-32-thread-25-elem-no-LFRC.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)

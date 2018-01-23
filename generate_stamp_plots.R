@@ -44,16 +44,16 @@ plot_iterations_all <- function(benchmark, params = "")
 }
 
 plot <- plot_iterations_all("queue")
-ggsave("plots/stamp-queue.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/stamp-queue.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
 
 plot <- plot_iterations_all("list", param="elements: 10; modify-fraction: 0.199219")
-ggsave("plots/stamp-list-20.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/stamp-list-20.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
 
 plot <- plot_iterations_all("list", param="elements: 10; modify-fraction: 0.799805")
-ggsave("plots/stamp-list-80.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/stamp-list-80.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
 
 plot <- plot_iterations_all("hash_map")
-ggsave("plots/stamp-hash_map.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/stamp-hash_map.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
 
 plot <- plot_iterations_all("guard_ptr")
-ggsave("plots/stamp-guard_ptr.pdf", plot, width=240, height=120, units="mm")
+ggsave("plots/stamp-guard_ptr.pdf", plot, width=240, height=120, units="mm", device=cairo_pdf)
