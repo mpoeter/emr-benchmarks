@@ -2,8 +2,15 @@
 This repository contains the results for the benchmarks
 implemented in https://github.com/mpoeter/emr
 
-These benchmarks were implemented and analyzed as part of my Master's
-Thesis. They were run on four different architectures:
+These benchmarks were implemented and analyzed as part of my [Master's
+Thesis](http://www.ub.tuwien.ac.at/dipl/VL/51367.pdf). There are also two
+Technical Reports discussing some of the results:
+ * [A new and five older Concurrent Memory Reclamation Schemes in Comparison
+(Stamp-it)](https://arxiv.org/pdf/1712.06134.pdf)
+ * [Stamp-it:  A more Thread-efficient, Concurrent Memory Reclamation Scheme
+in the C++ Memory Model](https://arxiv.org/pdf/1805.08639.pdf)
+
+The benchmarks were run on four different architectures:
 
 ##### AMD
 * CPUs: 4x AMD Opteron(tm) Processor 6168
